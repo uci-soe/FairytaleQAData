@@ -1,0 +1,14 @@
+question_id,local-or-sum,cor_section,ex-or-im1,attribute1,attribute2,question,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,explicit,setting,,Where did the old Buddhist monk live?,Sianfu,,,explicit,Sianfu,,
+2,local,1,explicit,character,,Who loved to wander in lonely places?,an old Buddhist monk,,,explicit,an old Buddhist monk,,
+3,local,1,explicit,action,,What did the old Buddhist monk see when he came to Kuku-Nor?,a tree,,,explicit,a tree,,
+4,local,2,explicit,action,,What did the old Buddhist monk see when he had gone on a few miles?,"a girl in a red coat, barefoot, and with unbound hair, who was running as fast as the wind",,,explicit,a girl,,
+5,summary,"2, 3",explicit,causal relationship,,Why did the girl ask the old Buddhist monk to save her life?,A man was pursuing her.,,,explicit,A man was pursuing her.,,
+6,local,3,explicit,action,,What did the girl do after she asked for the old Buddhist monk's help?,ran up to the hollow tree and crawled into it,,,explicit,ran up to the hollow tree and crawled into it,,
+7,summary,"4, 5",explicit,prediction,,What will the old Buddhist monk do when he meets the stranger?,reply that he has seen nothing.,,,explicit,tell the stranger he had not seen the girl,,
+8,summary,"5, 6",implicit,prediction,,What will the monk do when the stranger tells him to say the truth?,point to the hollow tree,,,implicit,tell the stranger where the girl is hiding,break his promise to the girl,
+9,local,5,explicit,causal relationship,,Why did the stranger want to find the girl?,"This girl was not a human being, but a flying ogre.",,,implicit,had a triple command from the Lord of the Heavens,,
+10,local,6,explicit,outcome resolution,,What happened to the ogre after the old Buddhist monk revealed where she was hiding?,The ogre had probably been hit by an arrow or captured.,,,explicit,was hit by an arrow or captured,,
+11,local,5,explicit,action,,What did the stranger do to flying ogres?,"slain a countless number of them, and have pretty well done away with them",,,explicit,had slain them,,
+12,local,5,explicit,causal relationship,,Why did the stranger hurry down from the skies to slay the flying ogre?,The Lord of the Heavens gave the stranger a triple command.,,,explicit,The Lord of the Heavens gave him a triple command.,,
+13,summary,"5, 6",implicit,causal relationship,,Why did the monk did not dare to deceive the stranger?,The stranger told him that the girl was a flying ogre.,The monk would be committing a sin if he lied.,The stranger needed to catch the flying ogre.,implicit,He did not want to disobey the Lord of the Heavens.,The Lord of the Heavens gave the stranger a triple command.,The girl was the worst flying ogre.

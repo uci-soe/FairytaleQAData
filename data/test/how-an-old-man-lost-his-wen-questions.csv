@@ -1,0 +1,51 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,What did the good old man have growing in his right cheek?,explicit,a wen,,,explicit,a wen,,
+2,local,1,causal relationship,,Why did the man spend all his time and money trying to get rid of his wen?,explicit,It so annoyed him.,,,explicit,"This lump was a great disfigurement to the old man, and so annoyed him that for many years.",,
+3,local,1,causal relationship,,Why was the man not able to get rid of his wen?,implicit,The doctors did not know how to get rid of it.,Medicine did not work.,,implicit,Doctors could not help him.,Medicines were of no use.,The lump only grew bigger and bigger.
+4,local,1,feeling,,How did the man feel about his wen?,explicit,annoyed,despair,,explicit,annoyed,despair,
+5,local,2,outcome resolution,action,What did the old man do because his wife wanted firewood?,explicit,took his ax and set out for the woods,,,explicit,took his ax and set out for the woods up among the hills not very far from his home,,
+6,local,2,setting,,Where were the woods?,explicit,up among the hills not very far from his home,,,explicit,among the hills not very far from his home,,
+7,local,2,feeling,,How did the man feel about being outside?,implicit,happy,content,comfortable,implicit,happy,joyful,peaceful
+8,local,2,action,,What did the man do when the day began to draw to a close?,explicit,turned his face homewards,,,explicit,turned his face homewards,,
+9,local,3,causal relationship,,Why did the man sit inside a large hole in the hollow trunk of a tree?,explicit,Rain began to fall heavily.,,,explicit,The sky clouded and rain began to fall heavily.,,
+10,local,3,causal relationship,,Why was the man able to creep in easily?,explicit,The hole was near the ground.,,,explicit,The hole was near the ground.,,
+11,local,4,feeling,,How did the man feel about the rain falling even more heavily?,explicit,disappointment,,,explicit,disappointed,,
+12,local,4,action,,What was the man about to do when the sky cleared?,explicit,step out from his strange hiding-place in the hollow in the tree,,,explicit,about to step out from his strange hiding-place in the hollow tree,,
+13,local,4,action,,What caught the man's ear?,explicit,the sound of what seemed like the approaching steps of several people,,,explicit,the sound of what seemed like the approaching steps of several people,,
+14,local,4,character,,Who did the man think was making the noise?,explicit,his friends,,,explicit,his friends,,
+15,local,4,causal relationship,,Why was the man delighted?,explicit,the idea of having some jolly companions with whom to walk home,,,explicit,He was delighted at the idea of having some jolly companions with whom to walk home.,,
+16,local,5,action,,What was the man's amazed to see?,explicit,hundreds of demons coming towards the spot,,,explicit,hundreds of demons coming towards the spot,,
+17,local,5,outcome resolution,,What happened because the man was so surprised at what he saw?,explicit,He lost his balance and fell out of the hollow tree.,,,explicit,He lost his balance and fell out of the hollow tree.,,
+18,local,5,causal relationship,,Why did the demons not see him?,explicit,The tree was in the background.,,,explicit,The tree was in the background.,,
+19,local,5,causal relationship,,Why did the man get back in the tree?,implicit,He did not want to be seen by the demons.,He was afraid.,,implicit,He did not want to be seen by the demons.,He was afraid of the demons.,He did not know who the demons were.
+20,local,7,action,,What were all the other demons doing?,explicit,"They were sitting round, some drinking and some dancing.",,,explicit,"were sitting round, some drinking and some dancing",,
+21,local,8,feeling,,How did the old man feel to see their strange antics?,implicit,amused,entertained,interested,implicit,amused,surprised,awed
+22,local,8,causal relationship,,Why did the man forget himself and step out of the tree?,explicit,He was so interested and excited in watching all that the demons were doing.,,,explicit,He was so interested and excited in watching all that the demons were doing.,,
+23,local,9,prediction,action,What will the man do when he hears what the demon chief said?,explicit,dance,,,explicit,dance,,
+24,local,10,causal relationship,,Why might it be dangerous for the man to dance in front of the demons?,explicit,If he didn't please them they may kill him.,,,explicit,If he does not please them they may kill him.,,
+25,local,11,feeling,,How will the demons feel when they see the old man dance?,explicit,surprised,admiration,,explicit,surprised,admiration,
+26,local,11,action,,On what did the old man's life depend?,explicit,whether he pleased these strange creatures or not,,,explicit,his life,,
+27,local,13,action,,What did the big demon hand the man?,explicit,his largest wine-cup,,,explicit,his largest wine-cup,,
+28,local,14,causal relationship,,Why did the big demon ask the man to come often?,explicit,The man's skill has given them much pleasure.,,,implicit,The demons enjoyed the old man's dancing.,The demons wanted to see the old man dance again.,The demons admired the old man's dancing.
+29,local,14,action,,What did the old man promise?,explicit,come often and dance for them,come again to-morrow,,explicit,He would come again to-morrow.,,
+30,local,14,causal relationship,,Why did the demon want a pledge?,implicit,He wanted to make sure the man will come back to dance.,He did not trust the man.,,implicit,so that the old man would return,so that the old man would not betray him,so that the old man would dance for him again
+31,local,15,action,,"What did moral men consider very fortunate, according to the demon's attendant?",explicit,a wen,,,explicit,such a wen,,
+32,summary,"15,16",causal relationship,,Why did the demon chief take the old man's wen?,implicit,The demon chief wanted the old man to come again.,The demon chief thought that the wen was very valuable to the old man.,,implicit,Mortal men considered such a wen very fortunate.,They thought it was the most important thing to the old man.,
+33,local,16,outcome resolution,,What happened after the demon chief took the man's wen?,explicit,The merry troop of demons suddenly vanished.,,,explicit,The merry troop of demons suddenly vanished.,,
+34,local,17,feeling,,How did the man feel after all that had happened?,explicit,bewilderment,,,explicit,bewildered,,
+35,local,17,causal relationship,,Why did the man hardly know for some time where he was?,explicit,He was lost in bewilderment by all that had happened.,,,explicit,The old man was lost in bewilderment by all that had happened.,,
+36,summary,"1,16",prediction,feeling,How will the man feel about the demons removing his wen?,implicit,excited,happy,relieved,implicit,happy,pleased,blessed
+37,local,17,action,,How did the man's right cheek feel after the wen was removed?,explicit,as smooth as his left,,,explicit,as smooth as his left,,
+38,local,18,action,,What did the man do when he realized how late it was?,explicit,hurry home,,,explicit,began to hurry home,,
+39,local,18,causal relationship,,Why did the man find it impossible to walk quietly?,explicit,He was so happy.,,,explicit,He was so happy.,,
+40,local,19,feeling,,How did the wife feel about her husband returning home so late?,explicit,very anxious,,,explicit,very anxious,,
+41,local,19,action,,What did the wife pride herself on in her youth?,explicit,her husband's good looks,,,explicit,his good looks,,
+42,local,20,character,,Who lived next door to this good old couple?,explicit,a wicked and disagreeable old man,,,explicit,a wicked and disagreeable old man,,
+43,local,20,action,,With what was this wicked and disagreeable old man troubled?,explicit,the growth of a wen on his left cheek,,,explicit,the growth of a wen on his left cheek,,
+44,local,21,causal relationship,,Why did the disagreeable neighbor ask the good old man about the loss of his wen?,implicit,He also wants to remove his wen.,He wants to get rid of his wen.,,implicit,He wanted to know how the old man removed it.,He had been troubled with the growth of a wen on his left cheek.,He wanted to remove the wen on his left cheek.
+45,local,24,character,,Who did the demon chief confuse disagreeable old man with?,explicit,the old man,,,explicit,the old man of yesterday,,
+46,local,24,action,,What did the demon chief want the disagreeable old man to do?,explicit,dance,,,explicit,dance,,
+47,local,25,prediction,feeling,How will the demons feel about the disagreeable old man's dancing?,implicit,dissatisfied,,,implicit,disappointed,let down,unhappy
+48,local,25,outcome resolution,,What happened because the old man never learned to dance?,explicit,He knew nothing about the necessary gestures and different positions.,,,explicit,He knew nothing about the necessary gestures and different positions.,,
+49,local,26,causal relationship,,Why did the demon chief tell the old man to go away at once?,explicit,They didn't wish to see any more of such dancing.,,,explicit,He did not wish to see any more of such dancing.,,
+50,summary,"26,28",outcome resolution,,How did the disagreeable old man end up with two wens?,implicit,He was a poor dancer.,The demons did not like his dancing.,The demons gave him the other man's wen.,implicit,He danced poorly.,The demon gave him the old man's wen.,

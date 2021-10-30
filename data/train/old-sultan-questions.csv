@@ -1,0 +1,11 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How does the story describe Sultan?,explicit,grown so old that he had lost all his teeth and could lay hold of nothing,A faithful dog,,,,,
+2,local,1,causal relationship,,Why does the husband decide to kill Sultan?,explicit,He is of no good any longer,,,,,,
+3,local,2,feeling,,How did the dog feel after hearing their conversation?,explicit,Very sad,,,,,,
+4,local,2,action,,Who did the poor dog meet that evening?,explicit,His great friend the wolf,,,,,,
+5,local,2,action,,What does the wolf order the dog to do?,implicit,lay beside the child as if he is watching over him,lay by the child's side and rush after when the wolf steals the child,,,,,
+6,local,3,action,,How did the husband respond to the dog rescuing the child?,explicit,He was very pleased.,,,,,,
+7,local,4,causal relationship,,How did the master know about the wolf's intention of carrying off the sheep?,explicit,The master had been warned by the faithful Sultan of the owlf's intention.,,,,,,
+8,local,5,action,,Who did the wolf send to call out the dog?,explicit,The wild boar,,,,,,
+9,local,5,causal relationship,,Why did the cat spring upon the wild boar?,explicit,She thought it was a mouse,,,,,,
+10,local,6,outcome resolution,,What did the wolf and the dog do after the wild boar was caught?,explicit,The wolf made peace with the dog.,,,,,,

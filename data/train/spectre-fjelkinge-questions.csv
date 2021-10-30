@@ -1,0 +1,12 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who owned several large estates in Schonen?,explicit,the family of Barnekow,Margaret Barnekow,,,,,
+2,local,1,character,,Who was Margaret Barnekow?,explicit,daughter of the famous captain and governor-general Count Rutger of Aschenberg,wife of Colonel Kjell Kristofer Barnekow,a widow,,,,
+3,local,1,action,,How did Margaret Barnekow give evidence of invincible courage?,explicit,She herself took over the management of her large properties.,,,,,,
+4,local,1,character,,What type of person was Margaret Barnekow?,implicit,a hard worker,courageous,smart,,,,
+5,local,2,setting,,Where did Madame Margaret come to one evening?,explicit,the tavern in Fjelkinge,,,,,,
+6,local,2,causal relationship,,"Why did people prefer to travel a post-station further in the dark, rather than pass the night in the room in question?",explicit,the room had been haunted,,,,,,
+7,local,2,feeling,,How did Margaret Barnekow feel about staying in the room?,implicit,unafraid,courageous,fearless,,,,
+8,local,5,action,,What did Margaret Barnekow do when the phantom spoke?,explicit,beckoned the phantom nearer,,,,,,
+9,local,5,action,,What did Margaret Barnekow give the phantom?,explicit,a gold ring,kerchief,,,,,
+10,local,5,feeling,,How did the phantom feel towards Margaret?,explicit,gratitude,,,,,,
+11,local,6,causal relationship,,Why did those present tear up the floor?,explicit,Madame Margaret informed the sheriff of what had happened to her during the night.,,,,,,

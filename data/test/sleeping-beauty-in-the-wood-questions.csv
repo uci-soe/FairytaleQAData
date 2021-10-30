@@ -1,0 +1,18 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How many fairies did the King and Queen find?,explicit,seven,,,explicit,seven,,
+2,local,2,setting,,Where did the company return to after the ceremonies of the christening were over?,explicit,the King's palace,,,explicit,the King's palace,,
+3,local,2,character,,Who did they see come into the hall when they were all sitting at the table?,explicit,a very old fairy,,,explicit,a very old fairy,,
+4,local,2,causal relationship,,Why could they not furnish the old fairy with a case of gold as the others?,explicit,They had only seven made for the seven fairies.,,,explicit,they had only seven made,,
+6,local,4,feeling,,How did the old fairy's gift make everyone feel?,implicit,sad,scared,,implicit,scared,afraid,terrified
+7,local,5,action,,What did the King do in order to avoid the misfortune told by the old fairy?,explicit,forbade everyone from spinning with a distaff or spindle or have a spindle in their houses,,,explicit,forbade everybody to spin with a distaff and spindle,forbade having a spindle in their houses,
+8,local,5,character,,Who did the princess see in the little room on the top of the tower?,explicit,a good old woman,,,explicit,a good old woman,,
+9,local,5,action,,What was the old woman doing?,explicit,spinning with her spindle,,,explicit,spinning with her spindle,,
+10,local,6,outcome resolution,,What happened as soon as the princess tried to spin the spindle?,explicit,She fell down in a swoon.,,,explicit,fell down in a swoon,,
+11,local,8,action,,What did the fairy arrive in?,explicit,a fiery chariot drawn by dragons,,,explicit,a fiery chariot drawn by dragons,,
+12,local,11,causal relationship,,Why was the son of the King on that side of the country?,explicit,He had gone a-hunting.,,,explicit,gone a-hunting,,
+13,local,17,character,,What were the names of the Prince's and Princess's children,explicit,Morning and Day,,,explicit,Morning,Day,
+14,local,18,causal relationship,,Why did the Prince not tell his mother the truth?,explicit,she was of the race of the Ogres,he feared her,,explicit,she was the race of the Ogres,he feared her,
+15,local,4,character,action,Who gives the Princess the gift of dying by spindle?,explicit,the old fairy,,,explicit,the old Fairy,,
+16,local,4,action,outcome resolution,What did the last fairy do to remedy the gift of the old fairy?,explicit,"Instead of dying, she shall only fall into a profound sleep, which shall last a hundred years, at the expiration of which a king's son shall come and awake her.",,,explicit,let the princess fall into a profound sleep instead of dying,,
+17,summary,"11,12",action,,What did people believe the tower in the middle of the great thick wood was?,explicit,ruinous old castle haunted by spirits,All the sorcerers and witches of the country kept there their sabbath or night's meeting.,An ogre lived there.,explicit,ruinous old castle haunted by spirits,,
+18,local,17,character,,How many children did the Princess and the Prince have?,explicit,two,,,explicit,two,,

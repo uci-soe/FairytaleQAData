@@ -1,0 +1,15 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was the charcoal-burner named Nils generally known as?,explicit,Charcoal Nils,,,explicit,Charcoal Nils,,
+2,local,1,setting,,Where did Charcoal Nils make a home?,explicit,in the forest,,,explicit,in the forest,,
+3,local,1,action,,What did Charcoal Nils do in his home?,explicit,chopped wood in the summer and burned it to charcoal in the winter,,,explicit,chopped wood in the summer,burned wood into charcoal in the winter,
+4,local,2,character,,Who came up to Charcoal Nils?,explicit,a strange woman,,,explicit,a strange woman,,
+5,local,3,outcome resolution,,What happened because the strange woman helped Charcoal Nils?,explicit,"By noon, there was enough wood for a new kiln.",,,implicit,She came back.,,
+6,summary,"3,4",feeling,,How did Charcoal Nils feel about the woman's work?,implicit,satisfied,happy,content,implicit,satisfied,happy,impressed
+7,local,5,causal relationship,,Why did Charcoal Nils not feel worried about his wife and children?,explicit,His wife looked after the children and they gave him no trouble.,,,explicit,His wife watched the children.,,
+8,local,8,action,,What did Charcoal Nils promise to do whenever he had been home and was returning to the kiln?,explicit,He would rap three times with his ax against an old pine-tree not far from it.,,,explicit,rap three times with his ax,,
+9,local,8,outcome resolution,,What happened because Charcoal Nils forgot to the sign?,explicit,He saw something that nearly robbed him of his wits.,,,implicit,saw his wife and children put out the fire with their tails,,
+10,local,9,action,,What did the three children and their mother use to put out the fire?,explicit,their bushy tails which they dipped in snow,,,explicit,their tails,,
+11,summary,"9,10,11",causal relationship,,Why did Charcoal Nils go see the wise man?,implicit,His wife and children had bushy tails.,"His wife demanded that he take her home to his little house, and that they live there.",,implicit,He did not know what to do.,,
+12,local,12,setting,,Where did the wise man say to drive out the troll-woman and her children?,explicit,on the ice,,,explicit,on the ice,,
+13,local,13,feeling,,How did the trolls feel when they saw the wolves?,implicit,scared,angry,fearful,implicit,scared,afraid,worried
+14,local,14,action,,What did Charcoal Nils hear the troll-woman doing when he didn't look back?,explicit,the troll-woman calling on others for aid,,,explicit,call on others for aid,,

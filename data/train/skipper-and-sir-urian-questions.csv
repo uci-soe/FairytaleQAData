@@ -1,0 +1,13 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,What was special about the master mariner?,explicit,He had the most unheard of good fortune in all that he undertook,,,,,,
+2,local,1,outcome resolution,,What happened because the master mariner had good luck?,explicit,He had such splendid cargoes,None earned so much money as he did.,Wherever he sailed he had fair winds.,,,,
+3,local,1,character,,Who was after the master mariner?,explicit,Sir Urian,the devil,,,,,
+4,local,1,causal relationship,,Why was Sir Urian after the master mariner?,explicit,That very day and hour the contract expired.,,,,,,
+5,local,1,causal relationship,,What made the master mariner have such good luck?,implicit,He had made a bargain with the devil.,The master mariner signed a contract with the devil.,,,,,
+6,local,2,action,,What did the master mariner tell the ship's carpenter and several others?,explicit,go down at once into the ship's hold and bore two holes in the ship's bottom,,,,,,
+7,local,2,feeling,,How did the men feel when they heard the master mariner's orders?,explicit,surprised,,,,,,
+8,local,2,causal relationship,,Why did the men find the master mariner's orders strange?,explicit,Water would rise quite high in the pipes.,,,,,,
+9,local,3,outcome resolution,,What happened because the master mariner's ship had water in it?,implicit,The devil did not uphold his end of the contract.,The devil had to pump the ship dry.,,,,,
+10,summary,"2,3",causal relationship,,Why did the master mariner tell the men to drill holes in the ship and allow water to rise in the pipes?,implicit,to trick the devil,to fool the devil,to show the devil that he did not uphold his end of the bargain,,,,
+11,local,3,causal relationship,,Why did the devil return home?,explicit,He could pump no longer.,,,,,,
+12,local,3,outcome resolution,,What happened because the devil was fool enough?,explicit,He allowed himself to be hoaxed.,"He worked and sweat, and the perspiration ran down his cheeks.",,,,,

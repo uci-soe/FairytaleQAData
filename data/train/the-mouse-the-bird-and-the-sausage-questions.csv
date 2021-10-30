@@ -1,0 +1,11 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,What was the bird's business?,explicit,to fly to the forest every day and bring back wood,,,,,,
+2,local,1,action,,What did the other bird call the bird?,explicit,a poor simpleton,,,,,,
+3,local,2,causal relationship,,Why did the sausage stir the broth?,explicit,to enrish and season and flavour it,,,,,,
+4,local,2,action,,What do they do after a meal?,explicit,Go to bed and sleep their fill till the next morning.,,,,,,
+5,local,3,causal relationship,,Why did the bird come to the resolution to never fetch wood again?,explicit,"He had been their slave long enough, now they much change about and make a new arrangement.",,,,,,
+6,local,3,action,,What was the bird's new business?,explicit,to draw water,,,,,,
+7,local,4,outcome resolution,,What had occurred to the sausage after he went to fetch wood?,implicit,A dog had made an end of him.,A dog killed him.,A dog ate him.,,,,
+8,local,5,feeling,,How did the bird and the mouse feel after hearing about the sausage's death?,explicit,very troubled,,,,,,
+9,local,5,action,,What did the mouse do differently to the broth?,implicit,She parted with fur and skin and with life.,,,,,,
+10,local,6,outcome resolution,,What occurred to the bird when he hastened to fetch the water?,implicit,He could not get out of the well and was obliged to be drowned.,He could not get out of the well and drowned.,,,,,

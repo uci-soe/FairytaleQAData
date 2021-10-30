@@ -1,0 +1,10 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,What did the cock and the hen agree upon?,explicit,whichever of them should find a nut was to divide it with the other,,,,,,
+2,local,1,outcome resolution,,What happened when the hen tried to eat the kernal all alone?,explicit,"The kernel was such a fat one that she could not swallow it down, and it stuck in her throat.",,,,,,
+3,local,1,action,,What did the hen order cock to do?,implicit,to fetch some water,to get her some water,,,,,
+4,local,1,action,,What did the brook order the cock to do?,explicit,run to the bride and ask her for some red silk,,,,,,
+5,local,2,action,,What did the bride order the cock to do?,explicit,go and fetch me my garland that hangs on a willow,,,,,,
+6,local,2,outcome resolution,,What had happened to the hen by the time that the cock has arrived?,explicit,"The hen had choked in the meanwhile, and lay there dead.",,,,,,
+7,local,3,outcome resolution,,What happened to the mice on the bridge?,explicit,The straw slipped and fell into the water and they all tumbled in and were drowned.,,,,,,
+8,local,3,causal relationship,,Why did the stone lay himself across the stream?,implicit,The stone was touched with pity and wanted to help the cock.,He wished to help the cock.,,,,,
+9,local,4,action,,What did the cock do at the hen's grave?,explicit,He lamented so sore that at last he died.,,,,,,

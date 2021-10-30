@@ -1,0 +1,7 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,What did the cock build?,explicit,a beautiful carriage with four red wheels,,,,,,
+2,local,1,action,,Who did the cock and the hen encounter?,explicit,a cat,,,,,,
+3,local,2,causal relationship,,Why did the cock ask the cat to sit at the back?,implicit,so that the cat will not fall forward,so it wouldn't fall forward,,,,,
+4,local,3,action,,What did the egg do in Mr. Korbes's house?,explicit,The egg wrapped itself in the towel.,,,,,,
+5,local,4,outcome resolution,,What happened to Mr. Korbes when we returned home?,explicit,the cat threw ashes in his eyes,,,,,,
+6,local,4,outcome resolution,,What happened to Mr. Korbes at the end?,explicit,He reached the housedoor the mill-stone jumpted up and struck him dead.,,,,,,

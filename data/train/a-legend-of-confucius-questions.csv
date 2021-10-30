@@ -1,0 +1,16 @@
+question_id,local-or-sum,cor_section,ex-or-im1,attribute1,attribute2,question,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,explicit,character,,Who is the strange beast which is the prince of all four-footed animals?,the Kilin,,,explicit,the Kilin,,
+2,local,1,explicit,character,,"Who studied diligently, learned wisdom and came to be a saint?",Confucius,,,explicit,Confucius,,
+3,local,1,explicit,causal relationship,,Why was Confucius's death reverenced as the greatest of teachers and masters?,He did much good on earth.,,,explicit,He did much good on earth.,,
+4,local,2,explicit,setting,,Where did the wicked Emperor Tsin Schi Huang go to after he had conquered all the other kingdoms?,the homeland of Confucius,,,explicit,the homeland of Confucius,,
+5,local,2,explicit,action,,What did Emperor Tsin Schi Huang wish to do after he found Confucius's grave?,wished to have it opened and see what was in it,,,explicit,wished to have it opened,to see what was in it,
+6,local,2,explicit,character,,"Who had conquered all the other kingdoms, and was traveling through the entire empire?",Emperor Tsin Schi Huang,,,explicit,Emperor Tsin Schi Huang,,
+7,summary,"4, 5",explicit,prediction,feeling,How will Emperor Tsin Schi Huang feel after he reads from the tablet?,alarmed,,,explicit,scared,horrified,alarmed
+8,local,5,explicit,outcome resolution,,What happened after Emperor Tsin Schi Huang closed the grave?,He fell ill of a hasty fever of which he died.,,,explicit,fell ill of a hasty fever of which he died,,
+9,local,5,explicit,setting,,Where did Emperor Tsin Schi Huang die from a hasty fever?,Schakiu,,,explicit,Schakiu,,
+10,summary,"3, 4",explicit,causal relationship,,Why did a tablet suddenly appear in front of Emperor Tsin Schi Huang?,"The Emperor, in jest, put on the shoes, took the staff and left the grave.",,,explicit,He took the shoes and staff.,,
+11,summary,"1, 3, 4",implicit,action,,How did Confucius give evidence that he had foreknowledge of many things?,He had a tablet that predicted Emperor Tsin Schi Huang's actions.,He listed what Tsin Schi Huang did in his grave.,He predicted Tsin Schi Huang's death.,implicit,He predicted Tsin Schi Huang's death.,He cursed Tsin Schi Huang.,He delivered a tablet to Tsin Schi Huang.
+12,local,2,explicit,action,,What did Emperor Tsin Schi Huang's advisors' do when he wanted to open the grave?,advised him not to do so,,,explicit,advised him not to do so,,
+13,local,3,implicit,action,,What did Emperor Tsin Schi Huang do when he reached the inner chamber?,seated himself on the bed and looked down,,,implicit,made himself comfortable,looked at the treasures,took the shoes and staff
+14,summary,"2, 3",implicit,prediction,outcome resolution,What will happen after Emperor Tsin Schi Huang enters the grave?,He will steal from Confucius's grave.,He will explore the grave.,,implicit,He will be cursed.,He will receive a tablet.,He will take the shoes and staff.
+15,local,1,explicit,action,,What did the Kilin do when there was a great man on earth?,sought the child and spat out a jade,,,explicit,sought the child and spat out a jade tablet,,

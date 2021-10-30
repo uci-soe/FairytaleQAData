@@ -1,0 +1,22 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How many sons did the widow have?,explicit,three,,,explicit,three,,
+2,local,1,causal relationship,,Why did the two eldest son's masters declare they would keep them no longer?,explicit,They had both been so careless and idle.,,,explicit,they were careless and idle,,
+3,local,1,action,,What did Pinkel do around the house?,explicit,made himself useful about the house,looked after the hens,milked the cows,explicit,looked after the hens,milked the cow,made himself useful about the house
+4,summary,"1,2",causal relationship,,Why did the widow lose patience with her eldest sons?,implicit,They did not do anything at home.,They were idle fellows.,They did not help around the house.,explicit,they were idle at home,,
+5,local,2,feeling,,How did the widow feel about Pinkel leaving?,implicit,sad,upset,disappointed,implicit,sad,upset,unhappy
+6,local,3,causal relationship,,Why did no one think to offer the youngest brother any work?,explicit,He was small and slight.,,,explicit,he was small and slight,,
+7,local,3,outcome resolution,,What happened because the three brothers had no work?,explicit,"They went from one place to another, living only on the fruit and nuts they could find in the woods.",They got hungrier every day.,,explicit,"they went from one place to another, living only on the fruit and nuts",they got hungrier every day,
+8,local,4,action,,What did the brothers do with the boat?,explicit,rowed across in the direction of the light,took it and rowed over to the island,,explicit,rowed over to the island,,
+9,local,4,causal relationship,,Why did the eldest brother suggest rowing the boat over to the island?,explicit,There must be a house and perhaps they will give them food and shelter.,,,explicit,there must be a house,,
+10,local,4,character,,Who was the woman in the cloak?,explicit,a famous witch,,,explicit,a famous witch,,
+11,local,4,feeling,,How did the brothers feel when they saw the witch?,explicit,uneasy,amazed,,explicit,amazed,surprised,
+12,local,5,causal relationship,,Why did the witch say to leave the youngest boy?,explicit,She could find work for him.,,,implicit,something told her he was quick and cunning and would do her ill,,
+13,local,5,action,,What did Pinkel promise the witch?,explicit,never hurt the witch,,,explicit,never hurt her,,
+14,local,6,setting,,Where were the two eldest given places?,explicit,the king's stables,,,explicit,in the king's stables,,
+15,local,6,feeling,,How did the two eldest brothers feel about Pinkel's employment under the king?,explicit,jealous,,,explicit,jealous,envious,
+16,local,7,action,,What did the two eldest brothers do when they could bear their envy no longer?,explicit,consulted together how best they might ruin his credit with the king,,,implicit,wished to remind him that he was after all only a child,,
+17,local,10,feeling,,How did Pinkel feel about the thought of his adventure?,explicit,pleased,,,explicit,pleased,happy,content
+18,local,13,outcome resolution,,What happened because Pinkel returned with the golden lantern?,explicit,rooms next the king's own were prepared for Pinkel and he was to have a seat on the council,,,explicit,given a seat on the council,,
+19,local,15,causal relationship,,Why was it easier for Pinkel to approach the island unseen this time?,explicit,There was no golden lantern to throw its beams over the water.,,,explicit,there was no golden lantern to thrown its beams over the water,,
+20,local,23,causal relationship,,Why did the witch choose not to bring her cloak?,explicit,It would be covered with mud by the time she got back.,,,explicit,it would be covered with mud,,
+21,summary,"1,6,7,14,18",feeling,,How did the two eldest brothers feel about Pinkel's employment under the king?,implicit,dislike,jealousy,envy,implicit,jealous,envious,

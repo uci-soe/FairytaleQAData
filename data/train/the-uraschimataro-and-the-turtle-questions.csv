@@ -1,0 +1,24 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was a fine well-grown youth and a good fisherman?,explicit,Uraschimataro,,,explicit,Uraschimataro,,
+2,local,1,action,,What did Uraschimataro do when the neighbours believed the waves would end swallowing him up?,explicit,paid no heed to these remarks,,,explicit,paid no need to these remarks,,
+3,local,2,feeling,,How did Uraschimataro feel when he saw lying among the fishes a tiny little turtle?,explicit,delighted,,,explicit,delighted,,
+4,local,2,action,,What did Uraschimataro do when the turtle trembingly begged for its life?,explicit,"picked up the turtle, and put it back into the sea",,,explicit,"picked up the turtle, and put it back into the sea",,
+5,local,1,setting,,Where did Uraschimataro live?,explicit,the coast,,,explicit,the coast,,
+6,local,3,causal relationship,,Why was Uraschimataro's boat shattered to pieces?,explicit,He was making for a little bay between some rocks and there arose a fierce whirlwind.,,,explicit,He was making for a little bay between some rocks and arose a fierce whirlwind.,,
+7,local,4,setting,,Where did the turtle take Uraschimataro?,explicit,the palace of Ringu,,,explicit,the palace of Ringu,the house of the sea god,
+8,local,3,action,,What did the turtle do when Uraschimataro struggled hard to reach the shore?,explicit,paid his debt and showed his gratitude,,,explicit,paid his debt and showed his gratitude,,
+9,local,5,action,,What did the princess do to convince Uraschimataro to stay with her?,explicit,"promised that he should never grow old, neither should his beauty fade",,,explicit,begged him to stay with her,"promised that he should never grow old, neither should his beauty fade",
+10,local,3,feeling,,How did Uraschimataro feel when he struggled hard to reach the shore?,implicit,scared,frightened,afraid,implicit,tired,scared,
+11,local,4,character,,Who was the first waiting maid of the lovely princess Otohime?,explicit,the turtle,,,explicit,the turtle,,
+12,local,5,feeling,,How did Uraschimataro feel when he reached the palace of Ringu?,explicit,puzzled,,,explicit,puzzled,,
+13,local,5,causal relationship,,Why did the princess wish to see Uraschimataro?,explicit,The turtle who had talked so much of him to the princess.,,,explicit,The turtle had talked so much of him.,,
+14,summary,"4, 5",prediction,action,What will the princess do when she sees Uraschimataro?,explicit,Her heart will set on him and she will beg him to stay with her.,,,explicit,Her heart will be set on him.,,
+15,local,7,feeling,,How did the princess feel when Uraschimataro decided to leave?,implicit,upset,sad,disappointed,implicit,sad,heartbroken,upset
+16,local,6,causal relationship,,Why did Uraschimataro want to visit his old home?,explicit,He longed to see his parents.,,,explicit,He longed to see his parents.,,
+17,summary,"7, 9",prediction,outcome resolution,What will happen to Uraschimataro when he leaves the palace of Ringu?,implicit,He will not be able to return.,He will not be able to meet the princess again.,He will grow old.,implicit,He will grow old and his beauty will fade.,He will die.,He will age.
+18,local,7,action,,What did the princess do before Uraschimataro left her?,explicit,"took from a shelf a tiny golden box, and gave it to Uraschimataro",,,explicit,took from a shelf a tiny golden box and gave it to Uraschimataro,,
+19,summary,"7, 9",prediction,outcome resolution,What will happen when Uraschimataro opens the tiny golden box?,implicit,He will turn old.,He will die.,,implicit,He will tun into an old man.,He will age very quickly.,He will die.
+20,local,8,causal relationship,,Why did Uraschimataro's old house have a strange look?,implicit,His parent did not live in the old house anymore.,A lot of time had passed.,He was not home for years.,explicit,Three hundred years had passed by.,,
+21,summary,"5, 8",causal relationship,,Why did three hundred years pass by when Uraschimataro came back to his home?,implicit,He did not grow old when he lived in the palace of Ringu.,He was at the palace of Ringu.,,implicit,Uraschimataro did not age under the sea.,Uraschimataro stayed young under the sea.,
+22,summary,"7, 8, 9",causal relationship,,Why did the tiny golden box turn Uraschimataro into an old man?,implicit,It turned him back to his real age.,He was not allowed to open it.,,implicit,He was not supposed to open it.,He was told not to open it.,
+23,summary,"7, 9",prediction,feeling,How will Uraschimataro feel when he realizes he cannot return to the palace of Ringu?,implicit,lonely,sad,upset,implicit,sad,upset,despair

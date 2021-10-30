@@ -1,0 +1,16 @@
+question_id,local-or-sum,cor_section,ex-or-im1,attribute1,attribute2,question,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,explicit,feeling,,How did the strong young farmer feel when he saw something shining floating in the air inside the gardens?,astonished,,,explicit,astonished,,
+2,local,1,explicit,character,,Who came home late one evening from market?,a strong young farmer,,,explicit,a strong young farmer,,
+3,local,1,explicit,setting,,Where did the farmer find the elixir of life?,the gardens,,,explicit,the gardens of a wealthy gentleman,,
+4,local,2,explicit,character,,Who was preparing the elixir of life?,a fox,,,explicit,a fox,,
+5,local,2,explicit,action,,What did the farmer do after the ball of fire came down again?,"stepped hastily from his hiding-place, took it away and at once swallowed it",,,explicit,swallowed it,,
+6,local,2,explicit,feeling,,How did the fox feel when the farmer took the elixir of life?,angry,upset,mad,explicit,angry,,
+7,local,2,explicit,causal relationship,,Why didn't the fox attack the farmer?,The fox feared his strength.,,,explicit,feared the farmer's strength,,
+8,local,3,explicit,action,,How did the farmer earn much money?,"when people lay unconscious, he could call back their souls, and if some one had committed a sin he could plead for them",,,explicit,called back people's souls,pleaded for someone,
+9,local,4,explicit,action,,What did the farmer do when he reached his fiftieth year?,withdrew from all things and would no longer exercise his arts,,,explicit,withdrew from all things and no longer exercised his arts,,
+10,local,2,explicit,action,,What did the fox do when he did not dare to attack the farmer?,went angrily on his way,,,explicit,went angrily on his way,,
+11,local,5,explicit,causal relationship,,Why did the fox decide to take back his treasure?,The farmer had enough wealth.,The farmer became rich from using the fox's treasure.,The farmer used the treasure for many years.,implicit,The man had had enough.,The man took the fox's treasure.,The fox wanted his fire-ball back.
+12,local,3,explicit,action,,What was the farmer able to do after he swallowed the elixir of life?,"make himself invisible, was able to see ghosts and devils, and had intercourse with the spirit-world",,,explicit,to make himself invisible,to see ghosts and devils,to have intercourse with the spirit-world
+13,summary,"4, 5",explicit,causal relationship,,Why did the farmer feel ill?,The fox took away the elixir of life from him.,The fox wanted his treasure back.,,implicit,felt as if someone was patting him on the back,the ball of fire leapt from his throat,
+14,local,4,explicit,outcome resolution,,What happened when the farmer woke up and felt ill?,The ball of fire had leaped out from his throat.,,,explicit,The ball of fire leapt out from his throat.,,
+15,local,1,implicit,action,,What did the fox do to prepare the elixir of life?,"blew its breath out a ball of fire came out of its mouth, and rose to the moon",,,implicit,blew out a ball of fire and rose to the moon,caught the ball in its jaws,

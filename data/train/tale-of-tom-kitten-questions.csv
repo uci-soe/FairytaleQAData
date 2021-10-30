@@ -1,0 +1,20 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How many kittens were there?,explicit,three,,,explicit,three,,
+2,local,1,action,,Where did the kittens play?,explicit,in the dust,,,explicit,in the dust,,
+3,local,1,causal relationship,,Why did the kitten's mother fetch them inside?,explicit,Mrs. Tabitha Twitchwit expected friends to tea.,,,explicit,she expected friends to tea,,
+3,local,2,action,,What did Mrs. Tabitha do first?,explicit,scrubbed their faces,,,explicit,scrubbed their faces,,
+4,local,3,character,,Who was the very naughty kitten?,explicit,Tom Kitten,,,explicit,Tom Kitten,,
+5,local,4,causal relationship,,Why did several buttons burst off Tom's clothes?,explicit,Tom Kitten was very fat.,He had grown.,,explicit,he was very fat,he had grown,
+6,local,4,causal relationship,,Why was it unwise for Mrs. Tabitha to turn the kittens out into the garden?,implicit,The kittens would get their clothes dirty.,The kittens would ruin there clothes.,The kittens would make a mess.,implicit,they would get dirty,,
+7,local,5,setting,,Where did Moppet say they should sit on?,explicit,the garden wall,,,explicit,on the garden wall,,
+8,local,6,action,,What happened to Tom Kitten's clothes when he jumped on the wall?,explicit,His buttons were shredded.,His hat fell off.,The rest of his buttons burst.,explicit,his buttons shreded,his hat fell off,the rest of his buttons burst
+9,summary,"6,7",action,,What were the kittens trying to do when the Puddle-ducks walked over?,explicit,pull Tom Kitten together,,,explicit,pull Tom Kitten together,,
+10,local,7,action,,What did the two duck-birds do after picking up the hat and tucker?,explicit,put them on,,,explicit,put them on,,
+11,local,8,causal relationship,,Why did Mittens fall of the wall?,explicit,She laughed.,,,explicit,she laughed,,
+12,local,10,feeling,prediction,How will Tabitha Twitchwit feel after seeing the kittens with no clothes on?,implicit,upset,mad,angry,implicit,angry,upset,unhappy
+13,local,11,action,outcome resolution,What happened when Mrs. Tabitha Twitch's friends come over?,explicit,There were very extraordinary noises over-head.,,,explicit,there were very extraordinary noises over-head,,
+14,local,13,causal relationship,,Why did the clothes come off directly from the Puddle-Ducks?,explicit,There were no buttons.,,,explicit,there were no buttons,,
+15,local,1,character,,What was the name of one of the three kittens?,explicit,Mittens,Tom Kitten,Moppet,explicit,Tom Kitten,Mittens,Moppet
+16,local,4,action,,What did Tom Kitten's mother do when his buttons burst off his coat?,explicit,sewed them on again,,,explicit,sewed them on again,,
+17,local,6,character,,Which kitten was unable to jump up the wall?,explicit,Tom Kitten,,,explicit,Tom Kitten,,
+18,summary,"11,12",action,,What do were the kittens were doing in their room?,implicit,playing,making noise,being rowdy,implicit,making noise,,

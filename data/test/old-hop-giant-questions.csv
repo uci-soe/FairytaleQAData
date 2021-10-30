@@ -1,0 +1,16 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,What were the rich and poor neighbor supposed to do?,explicit,mow together and then divide the hay,,,explicit,mow the meadow together and divide the hay,,
+2,local,2,causal relationship,,Why did the rich neighbor make the poor neighbor come to an agreement with him?,explicit,The rich neighbor wanted the meadow from himself alone.,,,explicit,The rich neighbor wanted the meadow.,,
+3,local,2,action,,What did the rich and poor neighbor agree upon?,explicit,Whichever one of them moved the largest stretch of the meadowland in a single day should receive the entire meadow.,,,explicit,Whichever one moved the largest stretch of the meadowland in a single day should receive the entire meadow.,,
+4,local,3,feeling,,How did the poor neighbor feel about the agreement?,explicit,despaired,,,explicit,despaired,sad,hopeless
+5,local,3,causal relationship,,Why did the poor neighbor weep?,explicit,He could not hire a single man,,,implicit,could not hire a single man,did not know how to get so much as a bit of hay for the cow,
+6,local,4,character,,Who stepped up to the poor neighbor?,explicit,a large man,He did not know how he could manage to get so much as a bit of hay for the cow.,,explicit,a large man,,
+7,local,4,action,,What did the poor neighbor need to call out when the mowing began?,explicit,Old Hopgiant' three times in succession,,,explicit,"""Old Hopgiant""",,
+8,summary,"4,5",outcome resolution,,What happened to the poor neighbor after the large man told him what to do?,explicit,"The poor man's heart grew less heavy, and he gave over worrying.",,,explicit,"The poor man's heart grew less heavy, and he gave over worrying.",,
+9,local,5,causal relationship,,Why did the poor neighbor not even take the trouble to begin mowing?,explicit,He saw how the others took hold and that he himself would not be able to do anything alone.,,,implicit,knew the large man would help,He would not be able to do anything alone.,
+10,local,6,action,,What did the mowers do when the poor neighbor called out?,explicit,laughed at him,mocked him,,explicit,laughed,mocked,
+11,local,7,character,,Who appeared when the poor neighbor cried for the third time?,explicit,"a fellow of truly horrible size, with a scythe as large as a ship's mast",,,explicit,a fellow of truly horrible size,,
+12,summary,"7,8",causal relationship,,Why did the merriment of the rich peasant's mowers come to an end?,explicit,They were frightened at the strength he put into his work.,,,explicit,They were frightened at the strength the giant put into his work.,,
+13,local,8,prediction,feeling,How will the rich neighbor feel when he sees the giant?,explicit,rage,,,implicit,scared,afraid,rage
+14,local,9,action,,What did the rich neighbor do when he saw the giant?,explicit,rushed up and gave the giant a good kick,,,explicit,got angry,gave the giant a good kick,
+15,summary,"9,10",outcome resolution,,What happened to the rich man after gave the giant a kick with his other foot?,explicit,"This foot also stuck fast, and there he hung like a tick.",,,explicit,"The foot got stuck fast, and he hung like a tick.",,

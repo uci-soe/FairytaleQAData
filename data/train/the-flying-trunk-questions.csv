@@ -1,0 +1,21 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was so rich that he could have paved the whole street?,explicit,a merchant,,,explicit,the merchant,,
+2,summary,"1, 2",causal relationship,,Why did the merchant's son have nothing left but four shillings?,explicit,He lived very merrily.,,,implicit,went every night to the theatre,made paper kites out of five-pound notes,played ducks and drakes with soverigns instead of stones
+3,local,2,action,,What did a friend do when the merchant's son only had four shillings left?,explicit,sent him an old trunk with a message,,,explicit,sent him an enchanted trunk,,
+4,local,2,action,,What did the enchanted trunk do when the lock was pressed?,explicit,flew up in the chimney,,,explicit,fly,,
+5,local,2,feeling,,How did the merchant's son feel when he flew up in the chimney with the enchanted trunk?,explicit,terror,,,explicit,terror,,
+6,local,3,setting,,Where did the merchant's son arrive?,explicit,land of the Turks,,,explicit,land of the Turks,,
+7,local,3,character,,Who lived in the great castle close to the town?,explicit,the sultan's daughter,,,explicit,the sultan's daughter,,
+8,local,4,feeling,,How did the sultan's daughter feel when the merchant's son tried to kiss her?,explicit,frightened,,,explicit,frightened,,
+9,local,5,action,,What did the sultan's daughter do before the merchant's son left?,explicit,gave him a sabre set with gold pieces,,,explicit,gave him a sabre set with gold pieces,,
+10,local,10,action,,What did the merchant's son do to give the whole town a treat?,explicit,"bought rockets, crackers, and all the kinds of fireworks",,,explicit,"bought rockets, crackers, and fireworks",,
+11,local,13,outcome resolution,,What happened when the trunk was in ashes?,explicit,"He could no longer fly, and could never reach his bride.",,,explicit,the merchant's son could no longer fly,,
+12,local,9,feeling,,How did the merchant's son feel when he was allowed to marry the sultan's daughter?,implicit,happy,glad,excited,implicit,happy,pleased,
+13,local,3,causal relationship,,Why was no one allowed to see the sultan's daughter?,explicit,It was prophesied that she would be very unlucky in her husband.,,,explicit,she was very unlucky in her husband,,
+14,local,11,feeling,,How did the Turks feel after they saw the fireworks?,implicit,amazed,astonished,excited,implicit,excited,happy,pleased
+15,local,13,feeling,,How did the sultan's daughter feel when she waited for the merchant's son?,implicit,sad,upset,lonely,implicit,sad,lonely,
+16,local,12,character,,"Who had eyes like glittering stars, and a beard like foaming water?",explicit,the Turkish god,,,explicit,the Turkish god,,
+17,local,5,action,,What did the merchant's son do for his dowry?,explicit,brought a fairy story,,,explicit,brought a fairy story,,
+18,local,13,action,,What did the merchant's son do after he could not reach his bride?,explicit,wandered through the world and told stories,,,explicit,wandered through the world,told stories,
+19,local,9,action,,What did the sultan and sultana do after they heard the story?,explicit,allowed the merchant's son to marry their daughter,,,explicit,allowed the merchant's son to marry their daughter,,
+20,summary,"10, 13",prediction,,What will happen to the enchanted trunk after the merchant's son leaves fireworks in it?,implicit,It will light on fire.,It will burn.,It will explode.,implicit,explode,,

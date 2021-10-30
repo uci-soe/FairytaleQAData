@@ -1,0 +1,15 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How does the story describe Lucie?,explicit,She was a good little girl - only she was always losing her pocket-handkerchiefs.,,,,,,
+2,local,1,action,,What was inside the pocket-handkerchief?,explicit,three handkins and a pinny,,,,,,
+3,local,2,causal relationship,,Why did Lucie climb up the hill?,explicit,Because she thought she saw some white things spread upon the grass.,,,,,,
+4,local,3,setting,action,What were some things that were found in the grass?,explicit,"clothes-props cust from bracket stems, with lines of plaited rushes, and heap of tiny clothes pis",,,,,,
+6,local,4,setting,,How does the story describe the kitchen?,implicit,flaged floor and wooden beams,small pots and pans,,,,,
+7,local,4,character,,How does the story descrive the stout short person?,explicit,"Her print gown was tucked up, and she was wearing a large apron over her
+striped petticoat. Her little black nose went sniffle, sniffle, snuffle,
+and her eyes went twinkle, twinkle; and underneath her cap--where Lucie
+had yellow curls--that little person had PRICKLES!",,,,,,
+8,local,5,action,,Who does the scarlet waist-coat belong to?,explicit,Cock Robin,,,,,,
+9,local,6,action,,Who does the damask table-cloth belong it?,explicit,Jenny Wren,,,,,,
+10,local,7,action,,Who does the terribly particular pocket-handkin?,explicit,Tom Titmouse,,,,,,
+11,local,9,action,,What were the first two animals that they met own the path?,explicit,Peter Rabbit and Benjamin Bunny,,,,,,
+12,local,9,feeling,,How did the little animals feel after Mrs. Tiggy-winkle give them their nice clean clothes?,explicit,They felt very obliged to dear Mrs. Tiggy-winkle.,,,,,,

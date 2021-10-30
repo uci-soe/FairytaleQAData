@@ -1,0 +1,16 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,How long did the King's son wait for his bride?,explicit,a whole year,,,explicit,a whole year,,
+2,local,1,character,,Where did the bride come from?,explicit,Finland,,,explicit,Finland,,
+3,local,4,causal relationship,,Why did no one dare tell the King he played the flute badly?,explicit,He was the King.,,,explicit,he was the king,,
+4,local,4,causal relationship,,Why did the King give orders that the Royal Pyrotechnist should be in attendance on the day of her marriage?,explicit,The little Princess had never seen a firework in her life.,,,explicit,the little Princess had never seen a firework in her life,,
+5,local,5,action,,What did the fireworks do after the Royal Pyrotechnist had put everything in its proper place?,explicit,began to talk to each other,,,explicit,began to talk to each other,,
+6,local,9,action,,What did the Rocket think about himself?,implicit,He thought himself remarkable.,pride,,explicit,proud,,
+7,local,18,causal relationship,,Why did the Rocket not go off?,explicit,He was so damp with crying.,,,explicit,he was so damp with crying,,
+8,local,18,action,,What did Rocket tell himself to explain why he was not set off?,explicit,They are reserving him for some grand occasion.,,,explicit,he supposed they were reserving him for some grand occasion,,
+9,local,19,action,,What did the workmen do when they saw the Rocket the next day?,explicit,threw him over the wall,,,explicit,threw him over the wall into the ditch,,
+10,local,20,character,,Who did the Rocket meet after falling into the mud?,explicit,a little frog,,,explicit,a little Frog,,
+11,summary,"21,22",feeling,,How did the Rocket feel about the Frog?,explicit,irritated,annoyed,hatred,explicit,mad,irritated,annoyed
+12,local,28,action,,What did the two little boys think the Rocket was?,explicit,an old stick,,,explicit,an old stick,,
+13,summary,"1,3,4",action,,What event was being celebrated at the Castle?,explicit,the day of the little princess's marriage,,,explicit,wedding,,
+14,local,15,feeling,,How did the other fireworks feel about the Rocket?,implicit,dislike,contempt,annoyance,implicit,unhappy,offended,
+15,summary,"22,23,24,25,27",feeling,,How did the Rocket feel about the animals he met in the mud?,implicit,haughty,snobbish,annoyance,implicit,annoyed,irritated,
