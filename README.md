@@ -1,6 +1,6 @@
-# FairytaleQA: A Dataset for Question and Answer Generation
+# StoryQA: A Dataset for Question and Answer Generation
 
-This repository contains the FairytaleQA dataset. It contains CSV files of fairy tales from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by highly trained coders for each story. 
+This repository contains the StoryQA dataset. It contains CSV files of children's stories from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by highly trained coders for each story. 
 
 Papers about this dataset and Machine Learning models trained on this dataset have been submitted for publication. Progress on those papers will be updated here.
 
