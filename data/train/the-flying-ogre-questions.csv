@@ -6,7 +6,7 @@ question_id,local-or-sum,cor_section,ex-or-im1,attribute1,attribute2,question,an
 5,summary,"2, 3",explicit,causal relationship,,Why did the girl ask the old Buddhist monk to save her life?,A man was pursuing her.,,,explicit,A man was pursuing her.,,
 6,local,3,explicit,action,,What did the girl do after she asked for the old Buddhist monk's help?,ran up to the hollow tree and crawled into it,,,explicit,ran up to the hollow tree and crawled into it,,
 7,summary,"4, 5",explicit,prediction,,What will the old Buddhist monk do when he meets the stranger?,reply that he has seen nothing.,,,explicit,tell the stranger he had not seen the girl,,
-8,summary,"5, 6",implicit,prediction,,What will the monk do when the stranger tells him to say the truth?,point to the hollow tree,,,implicit,tell the stranger where the girl is hiding,break his promise to the girl,
+8,summary,"5, 6",explicit,prediction,,What will the monk do when the stranger tells him to say the truth?,point to the hollow tree,,,implicit,tell the stranger where the girl is hiding,break his promise to the girl,
 9,local,5,explicit,causal relationship,,Why did the stranger want to find the girl?,"This girl was not a human being, but a flying ogre.",,,implicit,had a triple command from the Lord of the Heavens,,
 10,local,6,explicit,outcome resolution,,What happened to the ogre after the old Buddhist monk revealed where she was hiding?,The ogre had probably been hit by an arrow or captured.,,,explicit,was hit by an arrow or captured,,
 11,local,5,explicit,action,,What did the stranger do to flying ogres?,"slain a countless number of them, and have pretty well done away with them",,,explicit,had slain them,,

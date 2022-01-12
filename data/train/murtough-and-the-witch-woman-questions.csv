@@ -91,7 +91,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 90,local,12,causal relationship,,Why did Cairnech bless the clans of Owen and Niall?,implicit,They tried to save Murtough.,They came to Murtough's aid.,They left their own countries to try to save Murtough.,,,,
 91,local,12,action,prediction,How will Murtough feel when he realizes he has been tricked by Sheen?,implicit,betrayed,foolish,upset,,,,
 92,local,13,causal relationship,,Why did Sheen tell the king it was all a dream?,implicit,She did not want him to try to stop her.,She wanted to fool him.,She wanted him to suffer her vengeance.,,,,
-93,summary,"13,15",outcome resolution,,What did Murtough do after Sheen told him he was dreaming?,implicit,He slept again and he saw a vision.,,,,,,
+93,summary,"13,14",outcome resolution,,What did Murtough do after Sheen told him he was dreaming?,explicit,slept again,saw a vision,,,,,
 94,summary,"9,11,13,14",causal relationship,,Why did Murtough have many terrible dreams and visions?,implicit,He drank the wine.,He was cursed by Sheen.,,,,,
 95,summary,"18,19",causal relationship,,Why was the king dear to Sheen?,implicit,She loved him.,He treated her well.,,,,,
 96,summary,"18,19",feeling,prediction,How did Sheen feel killing the king?,implicit,sad,unhappy,torn,,,,

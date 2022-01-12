@@ -20,6 +20,6 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 19,local,15,action,,Why does Duchess believe he swallowed?,explicit,a large tin patty-pan with a sharp scalloped edge,,,,,,
 20,local,16,causal relationship,,What was conspicuous about the doctor?,explicit,He hopped so fast that Ribby had to run.,All the village could see that Ribby was fetching the doctor.,,,,,
 21,local,17,feeling,,How was Duchess feeling while Ribby was hunting for the doctor?,explicit,very unhappy,,,,,,
-22,local,18,action,,What was in the top oven?,implicit,a fine brown pie with a steamy flavour of veal and ham,,,,,,
+22,local,18,action,,What was in the top oven?,implicit,a fine brown pie with a steamy flavour of veal and ham,a pie with veal and ham ,,,,,
 23,local,18,action,,What does the doctor recommend Duchess to take?,explicit,a bread pill,,,,,,
 24,local,19,action,,What was laying down in the middle of Ribby's yard?,explicit,a pink and white pie dish lying smashed,,,,,,

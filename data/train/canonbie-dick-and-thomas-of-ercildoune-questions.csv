@@ -10,7 +10,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 9,local,3,action,,What did the old man do when he could not bargain with the horse-dealer?,explicit,"agreed to buy the animals, and, pulling a bag of gold from the pocket of his queerly cut breeches, he began to count out the price",,,,,,
 10,local,3,prediction,feeling,How will Canonbie Dick feel when the stranger does not give him gold?,explicit,surprised,,,,,,
 11,local,3,action,,What did the stranger give to Canonbie Dick instead of gold?,explicit,"Unicorns, and Bonnet-pieces, and other ancient coins",,,,,,
-12,local,3,causal relationship,,Why wouldn't the stranger's coins be of use to the horse-dealer in his everyday transactions?,implicit,The coins were not the gold that was used at the time.,,,,,,
+12,local,3,causal relationship,,Why wouldn't the stranger's coins be of use to the horse-dealer in his everyday transactions?,explicit,The gold that the stranger gave him was not the gold that was in use at the time.,,,,,,
 13,local,3,causal relationship,,Why did Canobie Dick took the stranger's coins?,explicit,"It was good, pure gold.",,,,,,
 14,local,4,action,,What did the stranger do before the two parted?,explicit,commissioned Dick to get him other good horses at the same price,,,,,,
 15,local,4,action,,What was the stipulation that the stranger made?,explicit,"the only stipulation he made being that Dick should always bring them to the same spot, after dark, and that he should always come alone.",,,,,,

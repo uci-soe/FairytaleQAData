@@ -67,7 +67,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 66,summary,"16,17",causal relationship,,Why did the soldiers insist on putting the shoe on the lad's foot?,explicit,"Every person, poor and rich, no matter where he was from, must try the shoe on him.",,,,,,
 67,local,17,action,,What did the lad do before he went with the soldiers?,explicit,"He went to the caher of the giants, and he got a fine new suit on him.",,,,,,
 68,local,1,feeling,prediction,How will the son feel when food comes out of the bull's horn?,implicit,surprised,happy,pleased,,,,
-69,summary,"1,2",action,prediction,What will the son do whenever he is hungry on the mountain?,implicit,He will twist the bracket bull's horn.,,,,,,
+69,summary,"1,2",action,prediction,What will the son do whenever he is hungry on the mountain?,implicit,twist the bracket bull's horn,hold the horn and twist it,,,,,
 70,local,2,causal relationship,,Why was the stepmother in wonder?,implicit,The son did not eat.,The daughter did not see anything in the field.,She did not know why the son was not hungry.,,,,
 71,local,2,causal relationship,,Why did the daughter not see anything?,implicit,The music put the daughter asleep.,The son ate while she was asleep.,She was awake after the son ate.,,,,
 72,local,2,action,prediction,What will happen when the second daughter goes with the son?,implicit,She will hear music.,She will tell her mother she did not see anything.,She will fall asleep.,,,,

@@ -95,7 +95,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 94,local,37,action,,What did the people not do because they were afraid?,explicit,go out to their daily work in the fields,go to the rivers to wash their rice,,,,,
 95,local,37,setting,,Where was the monster said to live?,explicit,Ibuki Mountain,,,,,,
 96,local,39,outcome resolution,,What happened because the serpent poisoned Yamato?,explicit,He began to feel ill and have burning pains in his feet.,,,,,,
-97,local,39,causal relationship,,What made Yamato feel his strength come again?,implicit,bathed daily in the hot mineral spring water,,,,,,
+97,local,39,causal relationship,,What made Yamato feel his strength come again?,explicit,bathed daily in the hot mineral spring water,,,,,,
 98,local,39,action,,What did Yamato do once he recovered?,explicit,hastened to the temples of Ise,,,,,,
 99,local,39,action,,What did Yamato's aunt praise?,explicit,His courage and his warrior's prowess.,,,,,,
 100,local,39,action,,What did Yamato's aunt wear to thank Amaterasu?,explicit,her most magnificent robes,,,,,,

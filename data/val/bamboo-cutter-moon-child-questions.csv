@@ -50,7 +50,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 49,local,29,action,,What did the governor do when he heard of the Fourth Knight's plight?,explicit,sent messengers with a letter inviting him to his house,,,explicit,Sent messengers with a letter inviting him to his house,,
 50,local,30,causal relationship,,Why did the Emperor want to see if she were really lovely as report said?,explicit,He wanted to make her one of the ladies-in-waiting.,,,explicit,The fame of Princess Moonlight's beauty had reached the ears of the Emperor,,
 51,local,31,action,,What would Princess Moonlight do if she were forced to go to the Palace?,explicit,vanish from the earth,,,explicit,Vanish from the earth,,
-52,local,32,causal relationship,,Why did the Princess hide her face in her sleeves?,implicit,She did not want to be seen.,,,explicit,The Emperor caught her and begged her to listen to what he had to say,,
+52,local,32,causal relationship,,Why did the Princess hide her face in her sleeves?,implicit,She did not want to be seen.,She was surprised.,,explicit,The Emperor caught her and begged her to listen to what he had to say,,
 53,local,33,action,,What did the Emperor promise to do if she would resume her former shape?,explicit,leave her free,,,explicit,To leave her free,,
 54,local,34,character,,Who could the Princess not marry?,explicit,any one on this earth,,,explicit,She could never marry any one on this earth,,
 55,local,35,action,,What would happen on the fifteenth day of that very month?,explicit,Her friends from the moon would come fetch her and she would have to return.,,,explicit,Her friends from the moon would come to fetch her,,

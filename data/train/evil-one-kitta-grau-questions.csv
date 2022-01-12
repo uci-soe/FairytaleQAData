@@ -3,7 +3,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 2,local,1,setting,,Where had the evil one been out on?,explicit,the farm where the newly wedded couple live,,,,,,
 3,local,1,action,,What did the devil try to do at the farmstead?,explicit,sow dissension between the newly wedded couple,,,,,,
 4,local,1,causal relationship,,Why was it impossible for the devil to sow dissension between the couple?,explicit,they think so much of each other,,,,,,
-5,local,1,causal relationship,,Why did Kittau Grau say the devil talked like a real stupid?,implicit,Kittau Grau thought it would be easy to sow dissension between the couple.,,,,,,
+5,local,1,causal relationship,,Why did Kittau Grau say the devil talked like a real stupid?,implicit,Kittau Grau thought it would be easy to sow dissension between the couple.,Kitta Grau thought she could sow dissension the very first time she went there.,,,,,
 6,local,1,action,,What did the evil one say he would give Kittau Grau if she was successful?,explicit,a splendid pair of shoes,,,,,,
 7,local,1,causal relationship,,Why was the woman home alone?,explicit,Her husband had gone to the forest.,,,,,,
 8,local,2,causal relationship,,Why did the woman think she had a splendid husband?,explicit,He grants her every wish before it is spoken.,,,,,,

@@ -1,7 +1,7 @@
 question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
 1,local,1,character,,What color are the flax's flowers?,explicit,blue,,,,,,
 2,local,1,causal relationship,,What made the flax look prettier?,implicit,sun shine,rain showers,sunshine,,,,
-3,local,1,prediction,,What will be made from the flax?,implicit,linen,,,,,,
+3,local,1,action,,What shall the mother make from the flax?,explicit,linen,,,,,,
 4,local,1,feeling,,How does the flax feel?,explicit,happy,,,,,,
 5,local,2,causal relationship,,Why does the fern sing mournfully?,implicit,it's knotted,it knows that the flax will be cut,,,,,
 6,local,3,action,,What did the flax think when it was put on the spinning wheel?,explicit,"""I have been very happy""",,,,,,

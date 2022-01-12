@@ -12,4 +12,4 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 11,local,6,causal relationship,,Why did Karin clasp the girdle around the oak-tree before putting it on?,implicit,She knew the giant was trying to trick her.,She outsmarted the giant.,,,,,
 12,local,6,outcome resolution,,What happened because the oak tore itself out of the ground?,explicit,One of the best springs in Stommen flows from one of the root-holes to this very day.,,,,,,
 13,local,6,causal relationship,,Why do one of the best springs in Stommen flow from the root-holes to this very day?,explicit,The roots of the tree were enormous.,The oak tore itself out of the ground.,,,,,
-14,summary,"1,2",character,,What did the giant and several men from the shipwreck have in common?,implicit,They are from Skalunda.,,,,,,
+14,summary,"1,2",character,,What did the giant and several men from the shipwreck have in common?,implicit,They are from Skalunda.,They were both from the same place.,,,,,

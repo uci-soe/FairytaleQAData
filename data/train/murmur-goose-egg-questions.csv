@@ -85,7 +85,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 84,local,25,action,,What was Murmur to do at the troll's castle?,explicit,remain there until he had built a bridge across the sound so that people could cross,,,,,,
 85,local,27,action,,What did Murmur see when the gate flew wide open?,explicit,nothing but a pair of yawning jaws that reached from the threshold to the top of the door.,,,,,,
 86,local,27,action,,What did Murmur want to do when the tumult and rumbling started?,explicit,sleep,,,,,,
-87,summary,"19,27",prediction,character,Who will the jaws turn out to be?,implicit,the devil,,,,,,
+87,summary,"19,27",prediction,character,Who will the jaws turn out to be?,explicit,the devil,,,,,,
 88,local,28,action,,What did Murmur and the devil do together?,explicit,play cards together,,,,,,
 89,local,28,outcome resolution,,What happened because Murmur had won all the devil had?,explicit,The devil had to give him some of the gold and silver that was in the castle.,,,,,,
 90,local,28,causal relationship,,Why did Murmur always win?,explicit,He made a cross on the cards.,,,,,,

@@ -16,7 +16,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 15,local,11,causal relationship,,Why did Timmy Willie not want to sleep on the sofa?,explicit,The sofa smelt of cat.,The sofa pillow had a hole in it,,explicit,the sofa pillow had a hole in it,the sofa smelt of cat,
 16,local,13,prediction,action,What will Timmy Willie do because he longed to be home?,implicit,try to go back home,return to his town,get back in the basket,implicit,go home,,
 17,local,17,outcome resolution,,What happened to Timmy after he got in the hamper?,explicit,He was set down safely in his own garden.,,,explicit,he was set down safely in his own garden,,
-18,local,19,feeling,,How did Timmy Willie feel about Johnny Town-Mouse's visit to the country?,implicit,happy,,,implicit,excited,happy,
+18,local,19,feeling,,How did Timmy Willie feel about Johnny Town-Mouse's visit to the country?,implicit,happy,excited,,implicit,excited,happy,
 19,local,25,causal relationship,,What made Johnny Town-Mouse want to return home?,explicit,It was too quiet.,,,explicit,it was too quiet,,
 20,summary,"2,3",causal relationship,,How did Timmy Willie end up in the town?,implicit,Timmy Willie fell asleep in the hamper.,The carrier brought Timmy Willie on accident,,explicit,carried by a hamper,,
 21,summary,"1,8,25",character,,How were Timmy Willie and Johnny Town-Mouse different from each other?,implicit,Timmy Willie liked the country and Johnny Town-Mouse liked the town.,Timmy Willie liked the quiet and Johnny Town-Mouse liked the noise.,Timmy Willie has a short tail and Johnny Town-Mouse has a long tail.,implicit,Timmy Willie lived in the country,Johnny Town-mouse lived in town,

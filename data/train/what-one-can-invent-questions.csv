@@ -11,4 +11,4 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 10,local,10,causal relationship,,"Why were the lands named ""wine-land"", or ""Groenland"" or ""Sloeland""?",implicit,because there were bushes with blue-black grapes -- sloe bushes -- near where the potatoes grew,because sloe bushes grew there with grapes for wine,,,,,
 11,local,11,action,,What did the bees do?,explicit,"They brought flower-dust which was poured out, sorted, and manufactured into honey and wax.",,,,,,
 12,local,12,action,,From whom does the young man receive aspiration?,explicit,the crowd,the people,,,,,
-13,local,13,causal relationship,,Why does the wise woman order the young man to hunt the poets?,implicit,to support himself and his wife,,,,,,
+13,local,13,causal relationship,,Why does the wise woman order the young man to hunt the poets?,implicit,to support himself and his wife,to help himself and his wife,,,,,

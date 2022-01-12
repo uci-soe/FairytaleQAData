@@ -1,6 +1,6 @@
 question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
 1,local,1,setting,,Where did a man and his wife live long years ago?,explicit,old Japan,Province of Echigo,,,,,
-2,local,1,character,,Who was the joy and pride of both their lives?,implicit,their daughter,,,,,,
+2,local,1,character,,Who was the joy and pride of both their lives?,implicit,daughter,,,,,,
 3,local,1,action,,What did the family do when the baby was just thirty days old?,explicit,visited the temple,,,,,,
 4,local,1,causal relationship,,Why was her third birthday perhaps the most important occasion of all?,explicit,Her first OBI of scarlet and gold was tired round her small waist.,She had crossed the threshold of girlhood and left infancy behind.,,,,,
 5,local,1,action,,What did the girl do when she was seven years old?,explicit,learned to talk and to wait upon her parents,,,,,,

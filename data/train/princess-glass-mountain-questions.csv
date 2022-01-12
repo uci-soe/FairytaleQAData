@@ -55,6 +55,6 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 54,local,16,causal relationship,,Why was the king's daughter once more led up the Glass Mountain?,explicit,The princess's suitors decided to try their luck a second time.,,,,,,
 55,local,18,action,,What was the suit of armor given by the wild man forged from?,explicit,the clearest silver,,,,,,
 56,local,19,causal relationship,,Why were people's excitement even greater than the first time?,implicit,He was mysterious.,He was close to reaching the top.,,,,,
-57,summary,"12,16,20",action,,How many times did the princess's suitors attempt to go up Glass Mountain?,implicit,three times,,,,,,
+57,summary,"12,16,20",action,,How many times did the princess's suitors attempt to go up Glass Mountain?,implicit,three times,three,,,,,
 58,summary,"24,25",causal relationship,,Why was the golden knight unknown?,implicit,He rode away into the woods right after.,His face was hidden.,,,,,
 59,local,24,feeling,,How did people feel when the golden knight did not make his appearance at the castle?,explicit,surprised,,,,,,

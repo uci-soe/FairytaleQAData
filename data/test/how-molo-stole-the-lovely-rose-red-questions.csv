@@ -9,7 +9,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 8,local,3,feeling,,How did Tsui feel after meeting Rose-Red?,implicit,confused,puzzled,,implicit,Sad,,
 9,local,3,action,,What did Tsui do after Molo asked what was troubling him?,explicit,"told him what had occurred, and also mentioned the signs the girl had made to him in secret",,,explicit,told him what had occurred,,
 10,local,4,causal relationship,,Why did Tsui grow sad again?,implicit,He thought that it would not be possible to go into the prince's palace to meet Rose-Red.,It would be difficult to enter the prince's palace.,,explicit,the prince's palace is shut off as thought by an ocean,,
-11,local,5,action,,What did Molo need to do to help Tsui meet the slave girl?,implicit,kill the wild dog on guard at the girl's court,,,implicit,carry Tsui there,Kill a guard dog,
+11,local,5,action,,What did Molo need to do to help Tsui meet the slave girl?,implicit,kill the wild dog on guard at the girl's court,carry Tsui there,,implicit,carry Tsui there,Kill a guard dog,
 12,summary,"5, 6",prediction,action,What will Tsui and Molo do after the wild dog is killed?,implicit,meet Rose Red,enter the palace,,implicit,go into the prince's palace,save Rose-Red,
 13,local,6,causal relationship,,Why did Rose-Red believe that Tsui was intelligent?,explicit,He understood her sign language.,,,implicit,she thinks he understood her sign language,,
 14,summary,"6, 7, 8",prediction,action,What will Rose-Red do when she finds out that Molo understands her sign language?,explicit,ask him to save her in her distress,,,implicit,ask him for help,offer to serve Tsui,

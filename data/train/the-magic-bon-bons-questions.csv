@@ -13,7 +13,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 12,summary,"16, 17",causal relationship,,Why did Clarbiel accused the senator of stealing her bonbons?,implicit,He began dancing like ballet-dancers.,He became a talented dancer.,He did not behave like himself.,,She saw him eating a bonbon.,,
 13,local,19,action,,What did Claribel do when she lost her box of bonbons?,explicit,went again to the wise chemist and signed a check for another box of magic bonbons,,,,went again to the wise chemist and signed a check for another box of magic bonbons.,,
 14,local,17,feeling,,How did Claribel feel when she realized the senator took her bonbons?,implicit,angry,mad,upset,,angry,upset,
-15,local,18,causal relationship,,Why did the ushers think that Claribel was insane?,implicit,She accused the senator of stealing her bonbons.,,,,She accused the dancing senator of stealing her bonbons.,,
+15,local,18,causal relationship,,Why did the ushers think that Claribel was insane?,implicit,She accused the senator of stealing her bonbons.,She said the senator stole her bonbons. ,She wanted the senator to get arrested for stealing her bonbons. ,,She accused the dancing senator of stealing her bonbons.,,
 16,local,9,causal relationship,,Why was Claribel Sudds' precious bonbons passed from her possession forever?,explicit,The dish of bonbons was now empty.,,,,The dish was now empty.,,
 17,summary,"6, 7",feeling,,How did Bessie's parents feel when they saw her play the piano?,implicit,surprised,excited,happy,,excited,impressed,
 18,summary,"3, 18",causal relationship,,Why was the effect of the magic bonbon still powerful enough to control the poor senator?,explicit,Dr. Daws made them too strong.,,,,Dr. Daws made them very strong.,,

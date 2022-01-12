@@ -5,7 +5,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 4,local,2,setting,,Where did Hans go after taking the knife?,explicit,home,,,,,,
 5,summary,"1,2",causal relationship,,Why did Hans put the knife in his sleeve?,implicit,because his mother told him to put the needle there,because that's where his mother said to put the needle,so that his mother would be happy with him,,,,
 6,local,3,action,,What did Hans do with the goat?,explicit,put it in his pocket,it was stupid,he should have put it somewhere else,,,,
-7,local,3,prediction,,What will Hans mother say when he tells her where he put the goat?,implicit,that was very stupid,,,,,,
+7,local,"3,4",prediction,,What will Hans mother say when he tells her where he put the goat?,explicit,that was very stupid,,,,,,
 8,local,3,outcome resolution,,What happened to the goat when Hans put it in his pocket?,explicit,it was suffocated,,,,,,
 9,local,4,action,,What did Hans's mother say he should have done with the goat?,implicit,put it on a leash,walked it home,tied a cord around its neck and walked home,,,,
 10,local,5,causal relationship,,Why did Hans return home with only a string in his hand?,implicit,because a dog ate the bacon,because the bacon he tied it around got eaten,because the bacon was eaten,,,,

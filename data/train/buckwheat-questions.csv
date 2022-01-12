@@ -9,7 +9,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 8,local,5,causal relationship,,Why doesn't the buckwheat bow its head?,implicit,it doesn't need to,it's too proud,,explicit,The buckwheat flower alone stood erect in all its pride.,,
 9,local,6,prediction,,Why won't the buckwheat bow down?,implicit,it's too proud,it's very stubborn,it doesn't want to,implicit,It's too prideful,,
 10,local,7,action,,What does the willow say to do?,explicit,"Close your flowers, fold your leaves, and don't look at the lightning",,,,,,
-11,local,7,causal relationship,,Why shouldn't they look at the lightning?,implicit,it can make you blind,,,explicit,"The sight strikes human beings blind, so dazzling is it.",,
+11,local,7,causal relationship,,Why shouldn't they look at the lightning?,explicit,The sight strikes human beings blind.,,,explicit,"The sight strikes human beings blind, so dazzling is it.",,
 12,local,7,action,,What does the buckwheat do?,implicit,looks at the lightning,the opposite of what the willow said to do,,,,,
 13,local,8,outcome resolution,,What happened to the buckwheat?,explicit,it was burned by the lightning,,,,,,
 14,local,8,causal relationship,,Why did the willow cry?,implicit,it was sad that the buckwheat died,the buckwheat's choice made it sad,,,,,

@@ -36,7 +36,7 @@ question_id,local-or-sum,cor_section,ex-or-im1,attribute1,attribute2,question,an
 35,local,8,implicit,action,,How did Ownee trick the angry brother?,He placed the moccasins near the moose's skeleton.,He ordered the moccasins to the end of the earth.,He told the moccasins to leave a trail.,,,,
 36,local,8,implicit,prediction,feeling,How will the brother feel when he realizes he has been tricked?,angry,mad,infuriated,,,,
 37,local,9,implicit,causal relationship,,Why did Onwee fill the lodge with food?,make the brother eat and lose his powers,to kill the brother,to trick the brother,,,,
-38,summary,"12,13",implicit,character,,Who did not praise Onwee?,"Ko-ko, the Owl",,,,,,
+38,summary,"12,13",explicit,character,,Who did not praise Onwee?,"Ko-ko, the Owl",,,,,,
 39,local,14,implicit,action,,How did Ko-ko initially react to the news that the wicked young women were dead?,confused,surprised,curious,,,,
 40,local,17,implicit,prediction,feeling,How will Ko-ko feel about fighting the father?,excited,scared,confident,,,,
 41,summary,"18,19",implicit,causal relationship,,Why did the moccasins suddenly leap and leave the Owl flat upon his back?,The moccasins did not want to take him home.,The moccasins knew he wasn't its owner.,The moccasins were enchanted.,,,,

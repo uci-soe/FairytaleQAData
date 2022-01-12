@@ -1,7 +1,7 @@
 question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
 1,local,1,character,,Who was Tawara Toda?,explicit,a brave warrior,My Lord Bag of Rice,Fujiwara Hidesato,,,,
 2,local,1,prediction,action,What will Fujiwara Hidesato do in the story?,explicit,change his name,,,,,,
-3,local,1,character,,How many names did Tawara Toda have?,implicit,three,,,,,,
+3,local,1,character,,How many names did Tawara Toda have?,implicit,three,three names ,,,,,
 4,local,2,causal relationship,,Why did Tawara Toda sail forth in search of adventure?,explicit,He had the nature of a warrior.,He could not bear to be idle.,,,,,
 5,local,2,action,,What did Tawara bring with him?,explicit,two swords,his huge bow,his quiver,,,,
 6,local,2,setting,,Where did Seta-no-Karashi span?,explicit,Lake Biwa,,,,,,
@@ -50,7 +50,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 49,summary,"8,14,15",causal relationship,,Why was the second feast more scrumptuous than the first?,implicit,Hidesato killed the centipede.,Everyone was happy that the centipede was dead.,They are celebrating Hidesato.,,,,
 50,local,16,causal relationship,,Why did Hidesato insist on going home?,explicit,He had now finished what he had come to do.,,,,,,
 51,local,16,action,,What did Hidesato leave with?,explicit,a few small presents,,,,,,
-52,local,17,action,,How many presents were given to Hidesato?,implicit,five,,,,,,
+52,local,17,action,,How many presents were given to Hidesato?,implicit,five,five presents,,,,,
 53,local,17,character,,What did the men wear?,explicit,ceremonial robes and dragon's crowns on their heads,,,,,,
 54,local,19,feeling,,How did the warrior's household feel when he did not return the night before?,explicit,concerned,,,,,,
 55,local,19,feeling,,How did the servants feel when they saw the retinue of men with Hidesato?,implicit,confused,curious,,,,,

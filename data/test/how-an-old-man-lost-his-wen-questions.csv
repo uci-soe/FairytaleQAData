@@ -45,7 +45,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 44,local,21,causal relationship,,Why did the disagreeable neighbor ask the good old man about the loss of his wen?,implicit,He also wants to remove his wen.,He wants to get rid of his wen.,,implicit,He wanted to know how the old man removed it.,He had been troubled with the growth of a wen on his left cheek.,He wanted to remove the wen on his left cheek.
 45,local,24,character,,Who did the demon chief confuse disagreeable old man with?,explicit,the old man,,,explicit,the old man of yesterday,,
 46,local,24,action,,What did the demon chief want the disagreeable old man to do?,explicit,dance,,,explicit,dance,,
-47,local,25,prediction,feeling,How will the demons feel about the disagreeable old man's dancing?,implicit,dissatisfied,,,implicit,disappointed,let down,unhappy
+47,local,25,prediction,feeling,How will the demons feel about the disagreeable old man's dancing?,implicit,dissatisfied,disappointed,unhappy,implicit,disappointed,let down,unhappy
 48,local,25,outcome resolution,,What happened because the old man never learned to dance?,explicit,He knew nothing about the necessary gestures and different positions.,,,explicit,He knew nothing about the necessary gestures and different positions.,,
 49,local,26,causal relationship,,Why did the demon chief tell the old man to go away at once?,explicit,They didn't wish to see any more of such dancing.,,,explicit,He did not wish to see any more of such dancing.,,
 50,summary,"26,28",outcome resolution,,How did the disagreeable old man end up with two wens?,implicit,He was a poor dancer.,The demons did not like his dancing.,The demons gave him the other man's wen.,implicit,He danced poorly.,The demon gave him the old man's wen.,

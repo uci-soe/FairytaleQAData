@@ -21,7 +21,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 20,local,6,action,prediction,How will Iadilla compensate his father's loss of glory?,explicit,"Iadilla will cheer his father by his songs, and strive to inspire in others the joy and lightsomeness of heart he feels in his present state.",,,,,,
 21,local,6,setting,,Where did Iadilla fly away to?,explicit,a neighboring wood,,,,,,
 22,local,6,outcome resolution,,What did Iadilla do after he caroled one of his sweetest songs?,explicit,flew away into a neighboring wood,,,,,,
-23,summary,"3,6",action,,How did Iadilla fail to gratify his father's wishes as a warrior?,implicit,Iadilla did not become a star among the chieftains and the beloved of battle.,,,,,,
+23,summary,"3,6",action,,How did Iadilla fail to gratify his father's wishes as a warrior?,implicit,Iadilla did not become a star among the chieftains and the beloved of battle.,Iadilla did not become a warrior.,,,,,
 24,summary,"2,3",action,,How did the father support his son's fast?,explicit,encouraged him to persevere,,,,,,
 25,local,5,outcome resolution,,What happened after the old man broke in?,explicit,"The young man, with the quickness of a bird, flew to the top of the lodge and perched himself on the highest pole.",,,,,,
 26,local,2,causal relationship,,Why did Iadilla's dreams forbade evil?,implicit,He had fasted for nine days.,He was hungry.,He had no food.,,,,

@@ -12,7 +12,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 11,local,3,character,,Who helped Sheep-Peter defeat the enemy?,explicit,Queen Crane,,,,,,
 12,local,4,outcome resolution,,"What happened because Sheep-Peter forgot to say, ""stay by me""?",explicit,He was shot in the leg.,,,,,,
 13,local,4,action,,What did the king do after Sheep-Peter was shot in the leg?,explicit,"took out his handkerchief, and tied up his leg",,,,,,
-14,summary,"3,4,5",action,,How many times did Sheep-Peter save the king?,implicit,three times,,,,,,
+14,summary,"3,4,5",action,,How many times did Sheep-Peter save the king?,implicit,three times,three,,,,,
 15,local,4,causal relationship,,Why did Sheep-Peter pretend to be sad when the soldiers laughed at him?,implicit,Sheep-Peter did not want them to know he was the one who saved the king.,He wanted to trick them.,,,,,
 16,local,6,character,,Who had carried off the three princesses?,explicit,three meer-women,,,,,,
 17,local,6,action,,What did the king proclaim?,explicit,whoever could rescue the three princesses should receive one of them for a wife,,,,,,

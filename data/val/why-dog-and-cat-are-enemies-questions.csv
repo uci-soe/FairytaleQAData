@@ -9,7 +9,7 @@ question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,an
 8,summary,"2, 3, 4",prediction,outcome resolution,What will happen when the cat tries to get the ring back?,implicit,She will successfully get the ring.,She will take all the credit.,,implicit,She will get it back,She will return it to the couple,She will be thanked and rewarded without the dog
 9,local,3,feeling,,How did the cat feel after the dog gave her advice?,explicit,pleased,,,explicit,pleased,,
 10,local,3,action,,How did the dog help the cat cross the river?,explicit,took her on his back and swam across with her,,,explicit,The dog took her on his back and swam across with her,,
-11,local,3,causal relationship,,Why did the cat bring back the mouse?,implicit,The cat needed the mouse to gnaw a hole in the chest and fetch out a ring.,,,implicit,The mouse was supposed to gnaw a hole in the chest to get the ring,,
+11,local,3,causal relationship,,Why did the cat bring back the mouse?,implicit,The cat needed the mouse to gnaw a hole in the chest and fetch out a ring.,The cat needed the mouse's help.,,implicit,The mouse was supposed to gnaw a hole in the chest to get the ring,,
 12,local,3,action,,What did the cat do after the mouse fetched out the ring?,explicit,put the ring in her mouth and went back to the river,,,explicit,The cat put the ring in her mouth and went back to the river,,
 13,local,3,causal relationship,,Why did the cat reach the house before the dog?,explicit,The cat quickly climbed over the roof.,,,explicit,The cat quickly climbed over the roof,,
 14,local,4,causal relationship,,Why did the owners scold the dog?,explicit,He had not helped to bring home the ring again.,,,explicit,They think he had not helped to bring home the ring,,
