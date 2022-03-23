@@ -1,0 +1,10 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was the hero of the legends and the bravest warrior in the army of the North?,explicit,Starkad,,,explicit,Starkad,,
+2,local,1,causal relationship,,Why did Starkad water up into Norland and settle down at Rude in Tuna?,explicit,Starkad had fallen into disgrace with the king because of a certain princess.,,,explicit,fell into disgrace with the king,,
+3,local,1,character,,What was Starkard known as in Tuna?,explicit,Thrall of the Alders or the Red Fellow,,,explicit,the Thrall of the Alders,the Red Fellow,
+4,local,2,setting,,Where did Bale live?,explicit,Balbo,,,explicit,Balbo,,
+5,local,3,causal relationship,,Why was Starkard not doing well?,explicit,"He ate salmon morning, noon and night.",,,explicit,"ate salmon morning, noon, and night",,
+6,local,3,action,,What did Starkard ask Bale to bring?,explicit,a bit of meat,,,explicit,meat,,
+7,local,5,prediction,action,What will Starkard bring for Bale?,explicit,salmon,fish-tail,,explicit,fish,,
+8,local,7,feeling,,How did Starkard and Bale feel about their friendship?,implicit,happy,content,satisfied,implicit,close,content,
+9,summary,"3,4,5,6,7",action,,How did Starkard and Bale help each other?,implicit,They exchanged their foods.,provided each other with companionship,,implicit,exchanged meat and fish,fought the tempest,

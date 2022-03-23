@@ -1,0 +1,12 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was the ruler of men?,explicit,Fu Hi,Dschu Yung,the Magic Welder,,,,
+2,local,1,action,,What did Fu Hi discover?,explicit,the use of fire,,,,,,
+3,local,1,causal relationship,,Why were his descendants intrusted with the preservation of fire?,explicit,The succeeding generations learned from him to cook their food.,,,,,,
+4,local,2,outcome resolution,,What happened when the man set out on a long journey?,explicit,"The man met a girl, dressed in red, who begged him to take her with him.",,,,,,
+5,local,2,action,,What did the man do after the girl begged him to take her with him?,explicit,"allowed her to get into the wagon, and drove along for half-a-day without even looking in her direction",,,,,,
+6,summary,"2, 3",prediction,outcome resolution,What will happen when the man helps the girl?,implicit,She will reveal that she is the Fire-God.,She will tell him that a fire will break out in his house.,,,,,
+7,local,3,prediction,action,What will happened after the man hears about the fire at his house?,explicit,face his horses about and drive home as fast as he can,,,,,,
+8,local,3,action,,What did the man remove from his house?,explicit,"his treasures, clothes and jewels",,,,,,
+9,local,3,outcome resolution,,What happened when the man was about to lie down to sleep?,explicit,A fire broke out on the hearth which could not be quenched until the whole building had collapsed in dust and ashes.,,,,,,
+10,summary,"2, 3",causal relationship,,Why was the man able to save all of his belongings?,implicit,The Fire-God told the man about the fire in his house.,The Fire-God told him to go home and save his possessions.,,,,,
+11,local,3,feeling,,How did the man feel when the Fire-God said his house would be on fire?,explicit,frightened,,,,,,

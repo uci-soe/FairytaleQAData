@@ -1,0 +1,10 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,causal relationship,,why might someone think the stork was carved in marble?,implicit,because he stood so still,he was so still,he was still like a statue,,,,
+2,local,1,prediction,,will the pointed black bills stay black forever?,implicit,"no, they will turn red someday","no, after awhile they turn red",,,,,
+3,local,1,setting,,which house was the stork's nest on?,explicit,the last house in the village,,,,,,
+4,local,1,character,,who sat in the nest?,explicit,mother stork and four little ones,,,,,,
+5,local,2,action,,what was the crowd of children doing before they saw the stork?,explicit,playing,,,,,,
+6,local,2,outcome resolution,,what happened when the children saw the stork?,implicit,they started singing,they all sang a song about the stork,,,,,
+7,local,3,action,,what did the mother tell the young stork to do?,explicit,don't listen to what they say,,,,,,
+8,local,3,character,,which boy did not join in the singing?,explicit,Peter,,,,,,
+9,local,3,causal relationship,feeling,why did the little ones draw their beaks into the nest?,implicit,they were afraid,they were scared of the children,,,,,

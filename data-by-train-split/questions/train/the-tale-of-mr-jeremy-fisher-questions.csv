@@ -1,0 +1,10 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,setting,,What was the boat like?,explicit,"The boat was round and green, and very like the other lily-leaves.",,,,,,
+2,local,2,feeling,,How did Mr. Jeremy feel after an hour of staring at the float?,explicit,tiresome,,,,,,
+3,local,2,action,,What animal come up underneath the lily leaf?,explicit,a great big water-beetle,,,,,,
+4,local,3,action,,What fish did Mr. Jeremy think he got?,explicit,a minnow,,,,,,
+5,local,3,action,,What fish did Mr. Jeremy actually get?,explicit,little Jack Sharp the stickleback covered with spines,,,,,,
+6,local,4,causal relationship,,Why did the trout spit out Mr. Jeremy?,explicit,It was displeased with the taste of the macintosh.,,,,,,
+7,local,4,action,,What did the trout swallow?,explicit,Mr. Jeremy's goloshes,,,,,,
+8,local,5,character,,What was Sir Issac Newton wearing?,explicit,black and gold waistcoat,,,,,,
+9,local,5,action,,What did they have instead of a nice dish of minnows?,explicit,a roasted rasshopper with lady-bird sauce,,,,,,

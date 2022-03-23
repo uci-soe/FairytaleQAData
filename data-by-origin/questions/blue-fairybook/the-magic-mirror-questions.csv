@@ -1,0 +1,24 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,What did Gopani-Jufa come across while hunting?,explicit,"An enormous python had caught an antelope and coiled itself around it; the
+antelope, striking out in despair with its horns, had pinned the
+python's neck to a tree, and so deeply had its horns sunk in the soft
+wood that neither creature could get away.",,,,,,
+2,local,1,feeling,,How did the antelope feel while pinning the python's neck to a tree?,explicit,in despair,,,,,,
+3,local,2,character,,How does the python describe himself?,explicit,"Insato, King of all Reptiles",,,,,,
+4,local,2,action,,Who did Gopani-Kufa set free?,explicit,the python,,,,,,
+6,local,3,causal relationship,,Why did Gopani-Kufa return?,implicit,to receive his reward from the python,,,,,,
+7,local,3,causal relationship,,Why was Insato laying on the group sleeping?,implicit,because he had a large meal,,,,,,
+8,local,3,feeling,,How did Gopani-Kufa feel upon hearing Insato's promise?,explicit,afraid,,,,,,
+9,local,5,action,,What did Insato turn into once he entered the country?,explicit,a man,,,,,,
+10,local,7,causal relationship,,Why was Gopani-Kufa astonished?,implicit,Everything in the country was beatuful. It had everything that a man might desire.,,,,,,
+11,local,8,character,,Who is Zengo-mizi?,implicit,It is a wasp containing the spirit of Gopani-Kufa's father. It is very wise.,,,,,,
+13,local,9,causal relationship,,Why did Insato turn down on Gopani-Kufa's request?,implicit,Because the mirror is most precious to him,,,,,,
+14,local,10,causal relationship,,Why did the king fear the loss os Sipao?,explicit,For the mirror had magic powers so that he who owned it had but to ask and his wish would be fulfilled.,,,,,,
+15,local,11,action,,What was Gopani-Kufa's first wish?,implicit,to return back on earth,,,,,,
+16,local,12,causal relationship,,Why were his wife and daughter mourning for him?,explicit,for they thought that he had been eaten by lions,,,,,,
+17,local,12,action,,What does Gopani-Kufa wish for?,explicit,a town as great as that of Insato and become a chief over it,,,,,,
+18,local,14,action,,Who did Gopani-Kufa entrust the mirror to?,explicit,his daughter,,,,,,
+19,local,15,action,,What did Shasasa do with the mirror?,explicit,hid it beneath her pillow,,,,,,
+20,local,15,character,,Who is Rei?,implicit,a cunning man who sought to discover whence sparng Gopani-Kufa's power,,,,,,
+21,local,17,outcome resolution,,What happened to the pillow?,implicit,It was stolen by Botou the traitor.,,,,,,
+22,local,18,causal relationship,,Why was the mirror stolen at the first place?,implicit,because the antelope's words were true,,,,,,

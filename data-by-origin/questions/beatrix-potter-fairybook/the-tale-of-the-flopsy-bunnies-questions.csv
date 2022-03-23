@@ -1,0 +1,11 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,How did the story describe the Flopsy Bunnies?,explicit,improvident and cheerful,,,,,,
+2,local,1,causal relationship,,Why did Benjamin borrow cabbages from Flopsy's brother?,explicit,because there was not always quite enough to eat,,,,,,
+3,local,2,action,,What were shot into flower?,explicit,a quantity of overgrown lettuces,,,,,,
+4,local,2,causal relationship,,Why did Benjamin place a paper bag over his head?,explicit,to keep off the flies,,,,,,
+5,local,3,action,,What did the mouse do to awaken Benjamin Bunny?,explicit,It picked over the rubbish among the jam pots and rustled across the paper bag.,,,,,,
+6,local,4,action,,What did the little rabbits dream of?,explicit,They dreamt that their mother Flopsy was tucking them up in a hay bed.,,,,,,
+7,local,5,causal relationship,,Why was Mrs. Tittlemouse resourceful?,implicit,She helped to nibble a hole in the sack for Benjamin and Flopsy to escape.,,,,,,
+8,local,6,action,,What did the parents stuff the empty sack with?,explicit,"three rotten vegetable marrows, an old blacking-brush and two decayed turnips",,,,,,
+9,local,8,causal relationship,,Why did Mrs. Gregor think of the six as old rabbits?,explicit,because they were so hard and all different shapes,,,,,,
+10,local,9,causal relationship,,Why was Mr. McGregor very angry?,explicit,"One of the rotten marrows came flying through the kitchen window, and hit the youngest Flopsy Bunny.",,,,,,

@@ -1,0 +1,12 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,What was the ball wearing?,explicit,a dress of morocco leather,,,,,,
+2,local,1,action,,What colors did the little boy paint the playthings?,explicit,red and yellow,,,,,,
+3,local,2,character,,What was the top made up of?,explicit,Mahogany,,,,,,
+4,local,3,outcome resolution,action,What happened to the ball every time it touched the earth while flying in the air?,explicit,It gave a higher leap than before.,,,,,,
+5,local,3,causal relationship,,Why did the ball leap higher than before whenever it touched the earth?,explicit,either because it longed to fly upwards or from having a Spanish cork in its body,,,,,,
+6,local,3,outcome resolution,,What happened to the ball when it flew for the ninth time?,explicit,It did not return.,,,,,,
+7,local,4,causal relationship,,Why did the top's love for the ball increase?,explicit,because he could not get a hold of her,,,,,,
+8,local,5,action,,How did the top change after several years?,explicit,He looked handsomer than ever for he was glided all over.,,,,,,
+9,local,5,action,,Where did the top jump into?,explicit,dust-bin,,,,,,
+10,local,6,setting,,Where did the ball lay for several years?,implicit,in the gutter,,,,,,
+11,local,7,character,,What was the ball made out of?,explicit,Morocco,,,,,,

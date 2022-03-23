@@ -1,0 +1,13 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,setting,,Where was a certain cottager on his way to?,explicit,the wedding-feast,,,explicit,to the wedding-feast,,
+2,local,1,causal relationship,,Why did the cottager pick up the milk-strainer?,explicit,He thought it would be washed and then he would give it to his wife for a dish-rag.,,,explicit,he would give it to his wife for a dish-rag,,
+3,local,1,outcome resolution,,What happened when the cottager came to the wedding celebration?,explicit,It seemed as though no one saw him.,He got neither greeting nor drink.,He was not asked nor did he get anything to eat.,explicit,it seemed as though no one saw him,,
+4,local,1,feeling,,How did the cottager feel when everyone ignored him?,explicit,angry,,,explicit,he grew angry,,
+5,local,1,action,,How did the bride and groom treat the other guests at the party?,implicit,kindly,politely,,explicit,"nodded to the rest of the guests, they spoke to them and poured for them",,
+6,local,2,feeling,,How did the cottager's wife feel when he returned?,implicit,shocked,surprised,confused,implicit,upset,confused,shocked
+7,local,2,feeling,,Why did the cottager's wife feel shocked when he returned?,explicit,She could hear him but she could not see him.,,,implicit,she could not see him but could hear him,,
+8,summary,"1,2",causal relationship,,Why did the bride and groom ignore the cottager at the wedding celebration?,implicit,They couldn't see him.,He was invisible.,,implicit,the cottager was invisible,,
+9,local,3,causal relationship,,What made the cottager invisible?,explicit,He had found a huldre hat.,,,explicit,he had found a huldre hat,,
+10,local,3,outcome resolution,,What happened when the cottager threw the hat on the bench?,explicit,His wife saw him but at the same moment the hat of the huldres disappeared.,,,explicit,his wife saw him,the hat of the huldres disappeared,
+11,local,3,action,,What should the cottager have done to keep the hat of huldres?,explicit,"loaned it, not given it away",,,explicit,loaned it,,
+12,summary,"1,3",causal relationship,,Why was the cottager treated differently after returning to the wedding-feast?,implicit,They could see him.,He was no longer invisible.,,explicit,he was received in right friendly fashion,asked to seat himself and to seat himself at the table,

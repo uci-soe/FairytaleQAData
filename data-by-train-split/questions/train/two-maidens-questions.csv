@@ -1,0 +1,13 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,what does a maiden do?,explicit,ram down paving stones in the roads,,,,,,
+2,local,1,character,,what forms the arms of the maiden?,explicit,the stick passed across through her waist,,,,,,
+3,local,1,setting,,where did the two maidens stand?,explicit,in the shed,,,,,,
+4,local,2,character,,"who, other than the maidens, are emancipated women?",implicit,nurses,milliners,dancers,,,,
+5,local,2,action,,what were the maidens determined not to do?,implicit,"give up the name ""maiden""",be miscalled rammers,,,,,
+6,summary,"2,3",causal relationship,,why did the maidens want to be called maidens?,implicit,because that's an honerable title,because it's a human name,because being called rammers is insulting,,,,
+7,local,3,character,,who is the youngest betrothed to?,explicit,a paver's hammer,,,,,,
+8,local,4,causal relationship,,why did the wheelbarrow consider himself a quarter of a coach?,explicit,because he went about on one wheel,,,,,,
+9,local,4,action,,what does the wheelbarrow think the maiden should surrender?,explicit,her maiden name,,,,,,
+10,local,4,causal relationship,,Why doesn't the maiden want to surrender her maiden name?,explicit,she is too old for that,,,,,,
+11,local,5,prediction,,How will the maidens feel about being called the wrong name?,implicit,angry,mad,frustrated,,,,
+12,local,6,outcome resolution,,What happened when they decided to keep their names?,explicit,the hammer broke off his engagement,,,,,,

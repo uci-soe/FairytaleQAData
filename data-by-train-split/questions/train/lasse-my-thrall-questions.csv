@@ -1,0 +1,43 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,action,,What did the duke not want to do?,explicit,stay at home,,,explicit,stay home,,
+2,local,1,causal relationship,,Why did the duke travel about the world?,explicit,He did want to stay at home.,,,explicit,did not want to stay at home,,
+3,local,1,outcome resolution,,What happened because the duke had unheard of amounts of money?,explicit,"Wherever he went he was well received, and hobnobbed with the very finest people.",He traveled about the world.,,implicit,was robbed,,
+4,local,1,causal relationship,,Why did the duke's money grow less and less?,implicit,He did not handle his money well.,His friends helped spend all his money.,He spent all his money traveling around the world.,implicit,was robbed,spent it on food,did not control his spending
+5,local,1,action,,What did the duke do after he ran out of money?,explicit,"wandered back home again like a journeyman apprentice, and begged his way as he went",,,explicit,wandered back home again,,
+6,local,2,action,,What did the duke see peeping out from among the pushes?,explicit,an old hut,,,explicit,an old hut,,
+7,local,2,causal relationship,,Why did the duke go into the hut?,explicit,He must take what he can get.,,,explicit,had to take what he could get,,
+8,local,2,causal relationship,,Why did the duke go through the trouble of opening all the little boxes?,explicit,"Whatever was hidden away so carefully must be something exceptionally beautiful, thought he.",,,implicit,was hungry,,
+9,local,3,feeling,,How did the duke feel when he first saw the slip of paper?,explicit,depressed,,,explicit,upset,cheated,sad
+10,local,3,action,,What did the duke do when he saw the words on the paper?,implicit,read the words outloud,read the paper,,explicit,read,,
+11,summary,"4,5",action,,What did the duke ask from Lasse?,explicit,a little something to eat,a bed in which to sleep,a better room,explicit,a little something to eat,,
+12,local,6,feeling,,How did the duke feel once matters were arranged to suit him?,explicit,content,,,explicit,content,happy,
+13,local,6,setting,,Where did the duke find himself when he woke the following morning?,explicit,in a great castle,,,explicit,a great castle,,
+14,local,7,causal relationship,,Why did the duke ask for serving-men and serving-maids?,explicit,He could not live there all alone.,,,explicit,He could not live there all alone.,,
+15,local,8,setting,,Where did another great castle lie?,explicit,the opposite side of the forest,,,explicit,opposite side of the forest,,
+16,local,8,character,,Who did the king send for when he saw the new castle?,explicit,his courtiers,,,explicit,his courtiers,,
+17,local,9,feeling,,How did the king's courtiers feel when they saw the new castle?,implicit,shocked,surprised,confused,implicit,surprised,amazed,astonished
+18,local,9,action,,What did the king want the soldiers and horsemen to do at once?,explicit,tear down the castle instantly and hang whoever built it.,,,explicit,to tear down the castle,to hang whoever built it,
+19,local,10,causal relationship,,How was the duke able to hear the soldiers long before they came in sight?,explicit,"The drummers beat their drums and the trumpeters blew their trumpets, and the other musicians practiced their art.",,,explicit,"heard drummers beat their drums, the trumpeters blow their trumpets, and other musicians",,
+20,local,10,outcome resolution,,What happened when the duke heard the music of this sort?,implicit,He asked Lasse for soldiers and horsemen.,He called Lasse.,He asked for sabers and pistols and muskets and cannon.,explicit,asked to be provided soldiers and horsemen,asked for sabers and pistols muskets and cannons,
+21,local,11,causal relationship,,Why did the king's people not dare advance?,explicit,There was a countless host of soldiers drawn up around the castle.,,,explicit,There was a countless host of soldiers drawn up around the castle.,,
+22,local,12,feeling,,How did the captain feel about the duke's proposal?,explicit,pleased,,,explicit,pleased,content,
+23,local,12,outcome resolution,,What happened because the captain was pleased with the duke's proposal?,explicit,"The duke invited the captain to the castle together with all his officers, and his soldiers were given a swallow or two of something wet and plenty to eat along with it.",,,explicit,The duke invited him into the castle.,The soldiers were given a swallow or two of something wet and plenty to eat.,
+24,local,12,character,,Who would make a good wife for the duke according to the king's officers?,explicit,the king's daughter,,,explicit,the king's daughter,,
+25,local,13,action,,What did the duke charge the soldiers to do?,explicit,"carry his greetings to the king, and say that he would soon pay him a visit",,,explicit,charged them to carry his greetings to the king and say he would soon pay him a visit,,
+26,local,14,outcome resolution,,What did the duke do because he was unsure if the princess was really as beautiful as the soldiers had said?,explicit,decided he would like to find out for himself,,,explicit,find out for himself,,
+27,summary,"9,16",feeling,prediction,How will the king feel when he sees the castle is still there?,implicit,angry,enraged,upset,implicit,angry,infuriated,jealous
+28,local,18,character,,Who told the king what had occurred at the duke's castle?,explicit,the captain,,,explicit,the captain,,
+29,local,19,feeling,,How did the king feel when he heard the story from the captain?,implicit,confused,upset,confounded,implicit,confused,bewildered,curious
+30,local,20,outcome resolution,,What happened because the princess dreamed of the duke and the new castle?,explicit,She wanted a husband.,,,explicit,She wanted a husband.,,
+31,local,21,character,,What was the king wearing when the duke had arrived?,explicit,his crown and finest robe of state,,,explicit,his crown and finest robe of state,,
+32,local,21,feeling,,How did the princess feel about the duke's arrival?,implicit,excited,happy,,implicit,excited,happy,eager
+33,local,22,causal relationship,,Why could the king not refuse the duke's request to marry his daughter?,explicit,The duke was the kind of a man whom it was better to have for a friend than for an enemy.,,,explicit,The duke was the kind of man whom it was better to have for a friend than an enemy.,The princess wanted to marry him.,
+34,local,24,action,,What did Lasse want from the duke?,explicit,little scrap of paper that the duke kept in the box,,,explicit,little scrap of paper that the duke kept in the box,,
+35,local,25,prediction,outcome resolution,What will happen to all of the duke's possessions after giving Lasse the paper?,implicit,His possessions will disappear.,Lasse will not answer.,Lasse will run away.,implicit,Everything will disappear.,The duke will lose everything.,Lasse will no longer serve him.
+36,local,27,causal relationship,,Why did the princess still have her clothes?,explicit,"They had been given her by her father, and Lasse had no power over them.",,,explicit,"They had been given her by her father, and Lasse had no power over them.",,
+37,local,28,action,,What did the duke beg the princess to do?,explicit,begged her to leave him,,,explicit,begged her to leave him,,
+38,local,29,feeling,,How did the king feel when he saw the castle was missing?,explicit,uneasy,,,explicit,uneasy,confused,uncomfortable
+39,local,33,outcome resolution,,What happened when the king saw what had become of the duke?,explicit,ordered him to be hung,,,explicit,ordered the duke to be hung,,
+40,local,36,character,,Who did the duke see a-top the last cart coming along the road?,explicit,a little old man in gray,,,explicit,a little old man in gray,,
+41,summary,"39,40,41,42,43,44",action,,What did the duke do to trick the king after getting Lasse back?,implicit,pretended the king did not actually hang him,said the king had lost his mind,restored his castle to the way it was before,implicit,restored his castle and title,,pretended that nothing happened
+42,summary,"47,48,49",causal relationship,,Why did the duke bury the scrap of paper in its little box even ells underground?,implicit,to prevent someone else from finding it and forcing Lasse to begin to run and work all over again,Lasse does not want to work for someone else again.,,implicit,He did not want to lose it.,He did not want to lose his fortune or title.,

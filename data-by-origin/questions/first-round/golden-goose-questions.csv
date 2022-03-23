@@ -1,0 +1,23 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who was the youngest son?,explicit,Dullhead,,,explicit,Dullhead,,
+2,local,1,causal relationship,,Why did the mother give her eldest a fine rich cake and a bottle of wine?,explicit,He might be sure not to suffer from hunger or thirst.,,,explicit,he might be sure not to suffer from hunger or thirst,,
+3,local,1,action,,What did the old grey man ask from the eldest son?,explicit,a piece of his cake and a draught of his wine,,,explicit,a piece of cake and a draught of the wine,,
+4,local,2,outcome resolution,,What happened to the eldest son because he made a false stroke with his axe?,explicit,cut his own arm badly and was obliged to go home and have it bound up,,,explicit,cut his own arm,,
+5,local,2,character,,Who went into the forest next?,explicit,the second son,,,explicit,the second son,,
+6,local,3,causal relationship,,Why did Dullhead's father not allow Dullhead to go out and cut wood?,explicit,Both his brothers had injured themselves.,,,explicit,his brothers had injured themselves,,
+7,local,3,prediction,character,Who will Dullhead meet in the forest?,explicit,the little grey old man,,,explicit,the old grey man,,
+8,local,4,outcome resolution,,What happened after Dullhead shared his cake and drink with the man?,implicit,The little man gave Dullhead luck because he had a kind heart and shared with him.,"His cake had turned into a fine rich cake, and the sour beer into excellent wine.",,explicit,the cake turned into a fine rich cake,the sour beer turned into excellent wine,
+9,local,4,action,,What did the man tell Dullhead to do?,implicit,cut down an old tree,,,explicit,cut the old tree,,
+10,local,5,action,,What did Dullhead find amongst the roots of the tree?,explicit,a goose whose feathers were all of pure gold,,,explicit,a goose whose feathers were all of pure gold,,
+11,local,5,setting,,Where did Dullhead spend the night?,explicit,an inn,,,explicit,an inn,,
+12,local,5,feeling,,How did the three daughters of the landlord feel when they saw the goose?,explicit,curious,,,explicit,curious,fascinated,
+13,local,5,outcome resolution,,What happened when the eldest caught hold of the goose by its wing?,explicit,"Her fingers seemed to stick fast to the goose, and she could not take her hand away.",,,explicit,she could not take her hand away,,
+14,summary,"5,6",causal relationship,,Why did all three daughters have to spend the night with the goose?,implicit,They were all stuck to the goose.,They touched the goose and were stuck.,,explicit,they were stuck to the goose,,
+15,local,8,action,,Who did the King decree should marry his daughter?,explicit,whoever should succeed in making her laugh,,,explicit,whoever should succeed in making her laugh,,
+16,local,8,prediction,action,How will the little grey man help Dullhead?,explicit,drink up a whole cellarful of wine,,,explicit,helping him drink a whole cellarful of wine,,
+17,local,8,feeling,,How did the King feel about Dullhead as a son-in-law?,implicit,unhappy,upset,dislike,implicit,upset,unhappy,
+18,local,8,outcome resolution,,What happened when the Princess saw the seven people continually running after each other?,explicit,She burst out laughing and could not stop herself.,,,explicit,burst out laughing,,
+19,local,9,feeling,,How did the little grey man feel when Dullhead saw him?,explicit,thirsty,,,explicit,sad,unhappy,thirsty
+20,local,10,causal relationship,,Why did the King make fresh conditions?,explicit,He felt vexed at the idea of a stupid fellow whom people called 'Dullhead' carrying off his daughter.,,,explicit,he felt vexed at the idea of a stupid fellow carrying off his daughter,,
+21,local,11,prediction,action,How will the little grey man help Dullhead?,explicit,give him the ship,,,implicit,by eating the bread,,
+22,summary,"1,2",action,,How did the two eldest sons treat the little grey man?,implicit,poorly,badly,unkindly,implicit,unkindly,selfishly,greedily

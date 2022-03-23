@@ -1,0 +1,23 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who had a wife whose name was Marie?,explicit,Ivan,,,explicit,Ivan,,
+2,local,1,causal relationship,,Why were Ivan and Marie unhappy?,explicit,They had no children to play with.,,,explicit,they had no children,,
+3,summary,"1, 2",causal relationship,,Why did the Ivan and Marie make a snow-child?,explicit,pretend it is a living one,,,explicit,to pretend it is a living child,,
+4,local,3,action,,What did the snow-child do when Ivan carefully shaped its mouth?,explicit,smiled at him,,,explicit,smiled,,
+5,local,3,feeling,,How did Ivan and Marie feel when the snow child moved its little arms and little legs?,implicit,happy,joyful,excited,implicit,joyful,happy,
+6,local,3,setting,,Where did Ivan and Marie take Snowflake?,explicit,the cottage,,,explicit,the cottage,,
+7,local,4,character,,Who had skin as white as snow and eyes as blue as forget-me-nots?,explicit,Snowflake,,,explicit,Snowflake,,
+8,local,3,causal relationship,,Why did Marie believed that heaven sent them a child?,explicit,The snow-child moved its little arms and its little legs in the snow that lay about it just as the living children did theirs.,,,implicit,she wanted children,,
+9,local,9,feeling,,How did Ivan and Marie feel when Snowflake disappeared?,implicit,sad,upset,worried,implicit,scared,worried,upset
+10,summary,"8, 9",prediction,,What will happen to Snowflake after the young girls lit a fire of dry grass?,explicit,melt,,,explicit,she will melt,,
+11,local,7,setting,,Where did Snowflake go to play with the young girls?,explicit,the woods,,,explicit,the woods,,
+12,local,5,feeling,,How did Marie feel when Snowflake sat quite still by the window of the cottage?,implicit,worried,concerned,,implicit,worried,concerned,
+13,local,7,causal relationship,,Why didn't Marie want to let Snowflake play with the young girls?,explicit,Marie was afraid.,,,explicit,Snowflake was the light of Marie's eyes,,
+14,local,8,action,,What did Snowflake and the young girls do in the woods?,explicit,"wore wreaths, gathered nosegays, and sang songs",,,explicit,wore wreaths,gathered nosegays,sang songs
+15,local,9,action,,"What did the young girls do when they heard a sigh, then a groan?",explicit,turned hastily and looked at each other,,,explicit,turned hastily and looked at each other,,
+16,local,9,action,,What did Ivan and Marie do after Snowflake disappeared?,explicit,wandered through the woods,,,explicit,look for Snowflake,,
+17,local,9,causal relationship,,Why did the young girls believe that Snowflake went home?,implicit,They could not find Snowflake in the woods.,They did not see her in the woods.,,implicit,Snowflake hid herself for fun,,
+18,local,2,setting,,Where did Ivan and Marie go to make the snow-child?,explicit,garden,,,explicit,the garden,,
+19,local,5,causal relationship,,Why did Snowflake burst into tears and weep?,implicit,Spring was coming.,Spring was approaching.,Winter was ending.,implicit,spring was coming,,
+20,local,3,action,,What did Marie do when the snow-child moved its little arms and little legs?,explicit,She threw herself upon Snowflake.,,,explicit,threw herself upon Snowflake,,
+21,local,4,action,,How was Snowflake clever?,explicit,"noticed everything, and could learn a lesson in a moment",,,explicit,she noticed everything,learned lessons in a moment,
+22,summary,"7, 8",action,,What did the girls do when Marie asked them to be careful of Snowflake?,explicit,said they would take care of her and ran off into the woods,,,explicit,they said they would take care of Snowflake,,

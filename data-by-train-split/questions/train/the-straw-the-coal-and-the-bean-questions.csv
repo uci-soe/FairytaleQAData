@@ -1,0 +1,8 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,causal relationship,,Why did the poor old woman collect a mess of beans?,implicit,to cook them,she was going to cook them,,,,,
+2,local,1,outcome resolution,,What happened when one of the beans fell out and lay near the straw?,explicit,soon a red-hot coal jumped out of the fire and joined the pair,,,,,,
+3,local,1,action,,What would have happened if the old woman kept the bean in the pot?,explicit,It would have been cooked into a soft mass.,,,,,,
+4,local,1,action,,"What did the coal, bean, and straw decide to do?",explicit,Join in good fellowship together and go abroad into foreign lands.,,,,,,
+5,local,2,causal relationship,,Why did the straw stretch himself from one back to another?,implicit,to allow the bean and the coal to cross the brook,so it could be a bridge for the others,,,,,
+6,local,2,feeling,,How did the coal feel when she reached the middle of the bridge?,implicit,terrified,worried,scared,,,,
+7,local,2,action,,How did the bean help out the straw?,explicit,He took out needle and thread and stitched her together again.,,,,,,

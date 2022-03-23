@@ -1,0 +1,6 @@
+question_id,local-or-sum,cor_section,attribute1,attribute2,question,ex-or-im1,answer1,answer2,answer3,ex-or-im2,answer4,answer5,answer6
+1,local,1,character,,Who isn't afraid of the kitten?,explicit,the Mouse,,,,,,
+2,local,1,causal relationship,,Why does Miss Moppet miss the Mouse and hit her own head?,implicit,because Miss Moppet jumps too late,Miss Moppet jumps later than she should,,,,,
+3,local,2,causal relationship,,Why does the Mouse slide down the bell-pull?,explicit,The Mouse thinks Miss Moppet looks very ill.,,,,,,
+4,local,2,outcome resolution,,What happens to the Mouse after Miss Moppet catches it?,explicit,Miss Moppet ties him up in the duster and tosses it about like a ball.,,,,,,
+5,local,2,causal relationship,,How did the Mouse run away?,explicit,"Because she forget that hole in the duster and when she untied it, there was no Mouse.",,,,,,
