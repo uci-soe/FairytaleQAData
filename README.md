@@ -8,11 +8,59 @@ Thus far, three papers have been published that include this dataset. Check back
 - Yao, B., Wang, D., Wu, T., Zhang, Z., Li, T., Yu, M., & Xu, Y. (2022). It is AI's Turn to Ask Humans a Question: Question and Answer Pair Generation for Children's Storybooks with FairytaleQA Dataset. *Association for Computational Linguistics*. [https://doi.org/10.48550/arXiv.2109.03423](https://doi.org/10.48550/arXiv.2109.03423)
 - Zhang, Z., Xu, Y., Wang Y., Yao, B., Ritchie, D., Wu, T., Yu, M., Wang, D., & Li, T. (2022). Storybuddy: A human-AI collaborative agent for parent-child interactive storytelling. *In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems*. [https://doi.org/10.1145/3491102.3517479](https://doi.org/10.1145/3491102.3517479)
 
+## Descriptive Statistics
+
+### Database Size
+
+Total Stories: 278
+
+Total Sections: 4095
+
+Avg Sections per Story: 14.73021582733813
+
+Avg Words per Section: 146.18144078144078
+
+Avg Words per Story: 2153.2841726618703
+
+Total Questions: 10580
+
+Avg Questions per Section: 2.583638583638584
+
+Avg Questions per Story: 38.05755395683453
+
+### Breakdown of Question Types
+
+#### Explicit/Implicit
+
+Explicit:             7880 questions - 74.48% of dataset
+
+Implicit:             2700 questions - 25.52% of dataset
+
+#### Question Attributes
+
+Character:            1204 questions - 11.38% of dataset
+
+Feeling:              1167 questions - 11.03% of dataset
+
+Setting:               636 questions -  6.01% of dataset
+
+Causal Relationship:  2949 questions - 27.87% of dataset
+
+Prediction:            708 questions -  6.69% of dataset
+
+Action:               3564 questions - 33.69% of dataset
+
+Outcome Resolution:   1116 questions - 10.54% of dataset
+
+*Note: Sum of attributes does not add up to 100% because some questions have more than 1 attribute*
+
 ## File Structure
 
 `FairytaleQAData`
 - `README.md`
 - `LICENSE`
+- `story_meta.csv`
+- `starter.py`
 - `data-by-origin/`
   - `questions/`
     - `andersen-fairybook/`
@@ -65,8 +113,10 @@ The files in both `data-by-origin` and `data-by-train-split` are split into `que
 
 The files in `data-by-origin` are also split by the book of fairytales that the stories were found in. The files in `data-by-train-split` are instead split into training, validation, and test sets for the machine learning models trained in Xu et al. (2022), Yao et al. (2022), and Zhang et al. (2022).
 
-### Files in Progress
-- `meta-db.csv` - contains metadata about the database as a whole
-- `meta-story.csv` - contains metadata about each individual story (also used to loop over the stories and questions in the dataset)
-- `starter.py` - some basic starter code to either get the whole dataset as one pandas DataFrame or apply a function to each file in the dataset
-- `starter.r` - equivalent starter code as `starter.py` but in R
+## Using this Dataset
+
+To start using this dataset, either clone the repo or download it as a zip file.
+
+You can find some starter code in `starter.py`. This has some functions for traversing and/or aggregating the dataset. `pandas` is the only dependency for the starter code. You can find some Jupyter Notebooks to train and run a BART-based QAG model [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System).
+
+`story_meta.csv` also contains a list of stories and their corresponding metadata. This can be useful for traversing or filtering the dataset.
