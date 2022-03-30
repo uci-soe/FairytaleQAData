@@ -60,7 +60,6 @@ Outcome Resolution:   1116 questions - 10.54% of dataset
 - `README.md`
 - `LICENSE`
 - `story_meta.csv`
-- `starter.py`
 - `data-by-origin/`
   - `questions/`
     - `andersen-fairybook/`
@@ -117,6 +116,10 @@ The files in `data-by-origin` are also split by the book of fairytales that the 
 
 To start using this dataset, either clone the repo or download it as a zip file.
 
-You can find some starter code in `starter.py`. This has some functions for traversing and/or aggregating the dataset. `pandas` is the only dependency for the starter code. You can find some Jupyter Notebooks to train and run a BART-based QAG model [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System).
+You can find some Jupyter Notebooks to train and run a BART-based QAG model [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System).
 
 `story_meta.csv` also contains a list of stories and their corresponding metadata. This can be useful for traversing or filtering the dataset.
+
+## Future Work
+
+We are currently writing some starter code to help people who wish to use this dataset. Also, we are working on annotating the data for bias found in the stories within the dataset.
