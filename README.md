@@ -10,25 +10,25 @@ The FairytaleQA dataset contains CSV files of 278 children's stories from [Proje
 <!-- ![](img/breakdown_stats.png "Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset") -->
 <!-- ![](img/core_train_stats.png "Core statistics of the FairytaleQA dataset by train/test/val splits") -->
 
-<!-- <p float="top">
-    <img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="500"/>
+<p align="middle">
+    <img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="400"/>
     <img src="img/breakdown_stats.png" alt="Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset" width="400"/>
-</p> -->
+</p>
 
+Left above is the core statistics of the FairytaleQA dataset. Right above is the breakdown statistics of QA-pairs in FairytaleQA dataset based on the 7 narrative elements' schema.
 
-<img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="400"/>
+<!-- <img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="400"/>
 
 Above is the core statistics of the FairytaleQA dataset. 
 
 <img src="img/breakdown_stats.png" alt="Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset" width="400"/>
 
-Above is the breakdown statistics of QAs in FairytaleQA dataset based on the 7 narrative elements' schema.
+Above is the breakdown statistics of QAs in FairytaleQA dataset based on the 7 narrative elements' schema. -->
 
 <img src="img/core_train_stats.png" alt="Core statistics of the FairytaleQA dataset by train/test/val splits" />
 
 Above is the statistics of the FairytaleQA dataset by train/test/val splits.
 
-*Note: Sum of attributes does not add up to 100% because some questions have more than 1 attribute*
 
 ## Repository Structure
 
