@@ -1,125 +1,62 @@
 # FairytaleQA: A Dataset for Question and Answer Generation
 
-This repository contains the FairytaleQA dataset. It contains CSV files of children's stories from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by highly trained coders for each story. 
+This repository contains the FairytaleQA dataset for our paper: [```Fantastic questions and where to find them: FairytaleQA -- An authentic dataset for narrative comprehension.```](https://arxiv.org/abs/2203.13947) [Accepted to ACL 2022]
 
-Thus far, three papers have been published that include this dataset. Check back here for updates on any further papers using this dataset.
+The FairytaleQA dataset contains CSV files of 278 children's stories from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by educational experts based on an evidence-based theoretical framework. This dataset focus on narrative comprehension of kindergarten to eighth-grade students so as to facilitate assessment and training of narrative comprehension skills for both machines and young children. 
 
-- Xu, Y., Wang, D., Yu, M., Ritchie, D., Yao, B., Wu, T., Zhang, Z., Li, T., Bradford, N., Sun, B., Hoang, T., Sang, Y., Hou, Y., Ma, X., Yang, D., Peng, N., Yu, Z., & Warschauer, M. (2022). Fantastic questions and where to find them: FairytaleQA- An authentic dataset for narrative comprehension. *Association for Computational Linguistics*.
-- Yao, B., Wang, D., Wu, T., Zhang, Z., Li, T., Yu, M., & Xu, Y. (2022). It is AI's Turn to Ask Humans a Question: Question and Answer Pair Generation for Children's Storybooks with FairytaleQA Dataset. *Association for Computational Linguistics*. [https://doi.org/10.48550/arXiv.2109.03423](https://doi.org/10.48550/arXiv.2109.03423)
-- Zhang, Z., Xu, Y., Wang Y., Yao, B., Ritchie, D., Wu, T., Yu, M., Wang, D., & Li, T. (2022). Storybuddy: A human-AI collaborative agent for parent-child interactive storytelling. *In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems*. [https://doi.org/10.1145/3491102.3517479](https://doi.org/10.1145/3491102.3517479)
+## Dataset Statistics
 
-## Descriptive Statistics
 
-### Database Size
+![](img/core_stats.png "Core statistics of the FairytaleQA dataset")
 
-Total Stories: 278
+![](img/breakdown_stats.png "Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset")
 
-Total Sections: 4095
+![](img/core_train_stats.png "Core statistics of the FairytaleQA dataset by train/test/val splits")
 
-Avg Sections per Story: 14.73021582733813
-
-Avg Words per Section: 146.18144078144078
-
-Avg Words per Story: 2153.2841726618703
-
-Total Questions: 10580
-
-Avg Questions per Section: 2.583638583638584
-
-Avg Questions per Story: 38.05755395683453
-
-### Breakdown of Question Types
-
-#### Explicit/Implicit
-
-Explicit:             7880 questions - 74.48% of dataset
-
-Implicit:             2700 questions - 25.52% of dataset
-
-#### Question Attributes
-
-Character:            1204 questions - 11.38% of dataset
-
-Feeling:              1167 questions - 11.03% of dataset
-
-Setting:               636 questions -  6.01% of dataset
-
-Causal Relationship:  2949 questions - 27.87% of dataset
-
-Prediction:            708 questions -  6.69% of dataset
-
-Action:               3564 questions - 33.69% of dataset
-
-Outcome Resolution:   1116 questions - 10.54% of dataset
 
 *Note: Sum of attributes does not add up to 100% because some questions have more than 1 attribute*
 
-## File Structure
+## Repository Structure
 
-`FairytaleQAData`
-- `README.md`
-- `LICENSE`
-- `story_meta.csv`
-- `data-by-origin/`
-  - `questions/`
-    - `andersen-fairybook/`
-      - `brave-tin-soldier-questions.csv`
-      - ...
-    - ...
-  - `section-stories/`
-    - `andersen-fairybook/`
-      - `brave-tin-soldier-story.csv`
-      - ...
-    - ...
-  - `sentence-stories/`
-    - `andersen-fairybook/`
-      - `brave-tin-soldier-story.csv`
-      - ...
-    - ...
-- `data-by-train-split/`
-  - `questions/`
-    - `test/`
-      - `alleleiraugh-or-the-many-furred-creature-questions.csv`
-      - ...
-    - `train/`
-      - `adventures-of-kintaro-golden-boy-questions.csv`
-      - ...
-    - `val/`
-      - `assipattle-and-the-mester-stoorworm-questions.csv`
-      - ...
-  - `section-stories/`
-    - `test/`
-      - `alleleiraugh-or-the-many-furred-creature-story.csv`
-      - ...
-    - `train/`
-      - `adventures-of-kintaro-golden-boy-story.csv`
-      - ...
-    - `val/`
-      - `assipattle-and-the-mester-stoorworm-story.csv`
-      - ...
-  - `sentence-stories/`
-    - `test/`
-      - `alleleiraugh-or-the-many-furred-creature-story.csv`
-      - ...
-    - `train/`
-      - `adventures-of-kintaro-golden-boy-story.csv`
-      - ...
-    - `val/`
-      - `assipattle-and-the-mester-stoorworm-story.csv`
-      - ...
+We have two different split methods for the dataset, one is to split the stories by their origins(```./data-by-origin```), the other is to split the stories into train/val/test for fine-tuning a model(```./data-by-train-split```). We randomly split the stories into train/test/val and provide the core statistics of each split above. 
 
-The files in both `data-by-origin` and `data-by-train-split` are split into `question`, `section-stories`, and `sentence-stories`. The `question` files contain the QA pairs, the `section-stories` files contain the corresponding stories split into sections determined by human coders, and the `sentence-stories` contain the stories split by sentence. All files are in CSV format, and corresponding QA pair/story files should have the same name, except for the suffix `-question` for QA pair files and the suffix `-story` for the story files (both section-level and sentence-level). 
+In either split approach, each story has **two** primary files : 
+- The story content (```../section-stories```). Eeach line is a section determined by human coders which contains multiple paragraphs. 
+- The education experts labeled QA-pairs (```../questions```). Each line is a QA-pair that is linked to one or more sections (shown by ```cor_section``` in question files which can be mapped to ```section``` in story section files)
 
-The files in `data-by-origin` are also split by the book of fairytales that the stories were found in. The files in `data-by-train-split` are instead split into training, validation, and test sets for the machine learning models trained in Xu et al. (2022), Yao et al. (2022), and Zhang et al. (2022).
+We further provide a **third** file for each story (```../sentence-stories```) that breaks down the stories into sentences in favor of further detailed analysis on sentence-levels. Each line is a sentence in this story. We use Spacy English pipeline [```en_core_web_sm```](https://spacy.io/models/en) as the sentencizer.  
+
+*For example, story ```ali-baba-and-forty-thieves``` has the following files in origin split: 
+```./data-by-origin/questions/first-round/ali-baba-and-forty-thieves-questions.csv```,
+```./data-by-origin/section-stories/first-round/ali-baba-and-forty-thieves-story.csv```, and 
+```./data-by-origin/sentence-stories/first-round/ali-baba-and-forty-thieves-story.csv```. The stories are organized in the same way by train/test/val split.*
+
+We also provide a meta data file ```story_meta.csv``` for our dataset which contains the list of stories and their corresponding metadata. This can be useful for traversing or filtering the dataset.
+
 
 ## Using this Dataset
 
-To start using this dataset, either clone the repo or download it as a zip file.
+To start with this dataset, either clone the repo or download it as a zip file.
 
-You can find some Jupyter Notebooks to train and run a BART-based QAG model [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System).
+We are going to provide a starter code that can help people who wish to use this dataset soon.
 
-`story_meta.csv` also contains a list of stories and their corresponding metadata. This can be useful for traversing or filtering the dataset.
+## Related Work
+
+In a concurrent work, we use this dataset to build a QA-pair Generation (QAG) System. You can also find some Jupyter Notebooks to train and run models [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System). This work [```It is AI's Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books```](https://arxiv.org/abs/2109.03423) is accepted to ACL 2022.
+
+We also leverage the QAG System to build an interactive storytelling system that allow parents to collaborate with AI system in creating storytelling experiences with interactive questioning-answering for their children. This work [```StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement```](https://arxiv.org/abs/2202.06205) is accepted to CHI 2022.
 
 ## Future Work
 
-We are currently writing some starter code to help people who wish to use this dataset. Also, we are working on annotating the data for bias found in the stories within the dataset.
+We are working on exploring the influence of various social biases from the stories to SOTA neural models, we plan to further annotate the dataset for various social biases found in the stories.
+
+## Citation
+Our Dataset Paper is accepted to ACL 2022, you may cite:
+```
+@inproceedings{xu2022fairytaleqa,
+    author={Xu, Ying and Wang, Dakuo and Yu, Mo and Ritchie, Daniel and Yao, Bingsheng and Wu, Tongshuang and Zhang, Zheng and Li, Toby Jia-Jun and Bradford, Nora and Sun, Branda and Hoang, Tran Bao and Sang, Yisi and Hou, Yufang and Ma, Xiaojuan and Yang, Diyi and Peng, Nanyun and Yu, Zhou and Warschauer, Mark},
+    title = {Fantastic Questions and Where to Find Them: Fairytale{QA} -- An Authentic Dataset for Narrative Comprehension},
+    publisher = {Association for Computational Linguistics},
+    year = {2022}
+}
+```
