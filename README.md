@@ -15,7 +15,7 @@ The FairytaleQA dataset contains CSV files of 278 children's stories from [Proje
     <img src="img/breakdown_stats.png" alt="Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset" width="400"/>
 </p>
 
-Left above is the core statistics of the FairytaleQA dataset. Right above is the breakdown statistics of QA-pairs in FairytaleQA dataset based on the 7 narrative elements' schema.
+Table on the left is the core statistics of the FairytaleQA dataset. Table on the right is the breakdown statistics of QA-pairs in FairytaleQA dataset based on the 7 narrative elements' schema.
 
 <!-- <img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="400"/>
 
