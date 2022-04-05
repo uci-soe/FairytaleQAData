@@ -2,7 +2,7 @@
 
 This repository contains the FairytaleQA dataset for our paper: [```Fantastic questions and where to find them: FairytaleQA -- An authentic dataset for narrative comprehension.```](https://arxiv.org/abs/2203.13947) [Accepted to ACL 2022]
 
-The FairytaleQA dataset contains CSV files of 278 children's stories from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by educational experts based on an evidence-based theoretical framework. This dataset focus on narrative comprehension of kindergarten to eighth-grade students so as to facilitate assessment and training of narrative comprehension skills for both machines and young children. 
+The FairytaleQA dataset contains CSV files of 278 children's stories from [Project Gutenberg](https://www.gutenberg.org/) and a set of questions and answers developed by educational experts based on an evidence-based theoretical framework. This dataset focuses on narrative comprehension of kindergarten to eighth-grade students to facilitate assessment and training of narrative comprehension skills for both machines and young children. 
 
 ## Dataset Statistics
 
@@ -15,7 +15,7 @@ The FairytaleQA dataset contains CSV files of 278 children's stories from [Proje
     <img src="img/breakdown_stats.png" alt="Breakdown statistics of QAs based on the 7 narrative elements' schema in FairytaleQA dataset" width="400"/>
 </p>
 
-Table on the left is the core statistics of the FairytaleQA dataset. Table on the right is the breakdown statistics of QA-pairs in FairytaleQA dataset based on the 7 narrative elements' schema.
+The table on the left is the core statistics of the FairytaleQA dataset. The table on the right is the breakdown statistics of QA-pairs (question-answer pairs) in FairytaleQA dataset based on the 7 narrative elements' schema.
 
 <!-- <img src="img/core_stats.png" alt="Core statistics of the FairytaleQA dataset" width="400"/>
 
@@ -52,13 +52,17 @@ We also provide a meta data file ```story_meta.csv``` for our dataset which cont
 
 To start with this dataset, either clone the repo or download it as a zip file.
 
-We are going to provide a starter code that can help people who wish to use this dataset soon.
+`starter.py` contains some starter code that can retrieve and aggregate the QA pairs or the stories. Example output from `get_question_df` is below. These functions are useful for people who want to handle to data for general purposes. For NLP preprocessing, [go to this Jupyter notebook](https://github.com/WorkInTheDark/FairytaleQA_QAG_System/blob/main/0_Pre_processing_the_original_data.ipynb).
+
+<p align="middle">
+    <img src="img/starter_ex_output.png" alt="Example Output: Question Function Output" width="400"/>
+</p>
 
 ## Related Work
 
 In a concurrent work, we use this dataset to build a QA-pair Generation (QAG) System. You can also find some Jupyter Notebooks to train and run models [here](https://github.com/WorkInTheDark/FairytaleQA_QAG_System). This work [```It is AI's Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books```](https://arxiv.org/abs/2109.03423) is accepted to ACL 2022.
 
-We also leverage the QAG System to build an interactive storytelling system that allow parents to collaborate with AI system in creating storytelling experiences with interactive questioning-answering for their children. This work [```StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement```](https://arxiv.org/abs/2202.06205) is accepted to CHI 2022.
+We also leveraged the QAG System to build an interactive storytelling system that allows parents to collaborate with AI system in creating storytelling experiences with interactive question-answering for their children. This work [```StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement```](https://arxiv.org/abs/2202.06205) is accepted to CHI 2022.
 
 ## Future Work
 
