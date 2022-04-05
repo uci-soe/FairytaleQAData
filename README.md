@@ -55,7 +55,7 @@ To start with this dataset, either clone the repo or download it as a zip file.
 `starter.py` contains some starter code that can retrieve and aggregate the QA pairs or the stories. Example output from `get_question_df` is below. These functions are useful for people who want to handle to data for general purposes. For NLP preprocessing, [go to this Jupyter notebook](https://github.com/WorkInTheDark/FairytaleQA_QAG_System/blob/main/0_Pre_processing_the_original_data.ipynb).
 
 <p align="middle">
-    <img src="img/starter_ex_output.png" alt="Example Output: Question Function Output" width="400"/>
+    <img src="img/starter_ex_output.png" alt="Example Output: Question Function Output"/>
 </p>
 
 ## Related Work
