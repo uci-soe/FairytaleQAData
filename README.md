@@ -64,6 +64,8 @@ In a concurrent work, we use this dataset to build a QA-pair Generation (QAG) Sy
 
 We also leveraged the QAG System to build an interactive storytelling system that allows parents to collaborate with AI system in creating storytelling experiences with interactive question-answering for their children. This work [```StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement```](https://arxiv.org/abs/2202.06205) is accepted to CHI 2022.
 
+A group of researchers aimed to generate educational meaningful and high-cognitive-demand questions. They used this dataset to train a novel model architecture that can take into account of a summary of the salient events, and a learnable distribution of the question types. There work [```Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization```](https://arxiv.org/abs/2203.14187) is accepted to ACL 2022.  And their code is available [here](https://github.com/zhaozj89/Educational-Question-Generation).
+
 ## Future Work
 
 We are working on exploring the influence of various social biases from the stories to SOTA neural models, we plan to further annotate the dataset for various social biases found in the stories.
