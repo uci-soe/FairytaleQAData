@@ -37,6 +37,7 @@ We have two different split methods for the dataset, one is to split the stories
 In either split approach, each story has **two** primary files : 
 - The story content (```../section-stories```). Eeach line is a section determined by human coders which contains multiple paragraphs. 
 - The education experts labeled QA-pairs (```../questions```). Each line is a QA-pair that is linked to one or more sections (shown by ```cor_section``` in question files which can be mapped to ```section``` in story section files)
+    - *For the question file of each story in test/val, there are guaranteed to have ```answer 1``` and ```answer 4```, which are ground-truth answers provided by two different annotators. The rest columns (```answer 2``` & ```answer 3``` are alternative options provided by the first annotator; while ```answer 5``` & ```answer 6``` are alternative options provided by the second annotator) are **not** used in the benchmark experiment evaluation because not all answers have those columns and we want to maintain fairness across all QAs.*
 
 We further provide a **third** file for each story (```../sentence-stories```) that breaks down the stories into sentences in favor of further detailed analysis on sentence-levels. Each line is a sentence in this story. We use Spacy English pipeline [```en_core_web_sm```](https://spacy.io/models/en) as the sentencizer.  
 
@@ -50,6 +51,8 @@ We also provide a meta data file ```story_meta.csv``` for our dataset which cont
 
 ## Using this Dataset
 
+### From this repo
+
 To start with this dataset, either clone the repo or download it as a zip file.
 
 `starter.py` contains some starter code that can retrieve and aggregate the QA pairs or the stories. Example output from `get_question_df` is below. These functions are useful for people who want to handle to data for general purposes. For NLP preprocessing, [go to this Jupyter notebook](https://github.com/WorkInTheDark/FairytaleQA_QAG_System/blob/main/0_Pre_processing_the_original_data.ipynb).
@@ -57,6 +60,18 @@ To start with this dataset, either clone the repo or download it as a zip file.
 <p align="middle">
     <img src="img/starter_ex_output.png" alt="Example Output: Question Function Output"/>
 </p>
+
+### From huggingface dataset hub
+
+Our ***Question Generation*** task can be found here on huggingface dataset hub: https://huggingface.co/datasets/GEM/FairytaleQA and could be easily loaded by the following code. **Reminder: this version of data loader is specifically designed for the QG task,** where we set ```target``` column for ground-truth question.
+
+```
+from datasets import load_dataset
+dataset = load_dataset("GEM/FairytaleQA")
+```
+
+- [ ] We will host the original dataset with another data loader that supports universal use cases to huggingface dataset hub soon
+
 
 ## Related Work
 
