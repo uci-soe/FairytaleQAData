@@ -63,14 +63,50 @@ To start with this dataset, either clone the repo or download it as a zip file.
 
 ### From huggingface dataset hub
 
-Our ***Question Generation*** task can be found here on huggingface dataset hub: https://huggingface.co/datasets/GEM/FairytaleQA and could be easily loaded by the following code. **Reminder: this version of data loader is specifically designed for the QG task,** where we set ```target``` column for ground-truth question.
+
+#### Fast Usage for NLP tasks with [datasets](https://github.com/huggingface/datasets) library
+The dataset is uploaded to Huggingface Hub: https://huggingface.co/datasets/WorkInTheDark/FairytaleQA
+```
+from datasets import load_dataset
+dataset = load_dataset("WorkInTheDark/FairytaleQA")
+
+'''
+DatasetDict({
+    train: Dataset({
+        features: ['story_name', 'story_section', 'question', 'answer1', 'answer2', 'local-or-sum', 'attribute', 'ex-or-im', 'ex-or-im2'],
+        num_rows: 8548
+    })
+    validation: Dataset({
+        features: ['story_name', 'story_section', 'question', 'answer1', 'answer2', 'local-or-sum', 'attribute', 'ex-or-im', 'ex-or-im2'],
+        num_rows: 1025
+    })
+    test: Dataset({
+        features: ['story_name', 'story_section', 'question', 'answer1', 'answer2', 'local-or-sum', 'attribute', 'ex-or-im', 'ex-or-im2'],
+        num_rows: 1007
+    })
+})
+'''
+```
+
+To load ```train/test/valid``` split: 
+```
+from datasets import load_dataset
+dataset = load_dataset("WorkInTheDark/FairytaleQA", split='train')
+```
+
+
+
+
+
+
+#### Our ***Question Generation*** task can be found here on huggingface dataset hub: https://huggingface.co/datasets/GEM/FairytaleQA and could be easily loaded by the following code. **Reminder: this version of data loader is specifically designed for the QG task,** where we set ```target``` column for ground-truth question.
 
 ```
 from datasets import load_dataset
 dataset = load_dataset("GEM/FairytaleQA")
 ```
 
-- [ ] We will host the original dataset with another data loader that supports universal use cases to huggingface dataset hub soon
+- [x] We will host the original dataset with another data loader that supports universal use cases to huggingface dataset hub soon
 
 
 ## Related Work
